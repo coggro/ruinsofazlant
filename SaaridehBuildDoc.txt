@@ -22,7 +22,7 @@ Class: Druid (Water Domain)
 		X Alignment: True Neutral
 		X 8 HP
 		X 4 + INT mod Skill Points/Level
-		_ Feat: 
+		X Feat: Combat Casting
 		X +0 BAB
 		X +2/+0/+2 Saves
 		X Nature Bond (Water Domain)
@@ -32,13 +32,21 @@ Class: Druid (Water Domain)
 		X Wild Empathy
 		X 3 orisons/day
 		X 1 1st-level spell/day + 1 1st level domain slot
+		X 1 free skill to lvl up with us, must be craft/profession
+			Profession (Herbalist)
 
+Traits:
+	Slippery Step
+		Always have firm footing when fighting underwater
+		+2 Trait Bonus on Acrobatics and Climb checks on wet surfaces or wet terrain
+	Focused Mind
+		+2 Trait Bonus on Concentration Checks
 
 ---------------------------------------------------------------------------
 CHARACTER STARTS HERE
 ---------------------------------------------------------------------------
 
-, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
+Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
 
 -------------------------
 | Attributes			|
@@ -66,7 +74,7 @@ CHARACTER STARTS HERE
 	Darkvision: 60ft
 	Water Sense (Blindsense 30 ft in same body of water)
 	Speed: 30ft
-	Swim Speed:30 ft
+	Swim Speed: 30 ft
 
 -------------------------
 | Combat				|
@@ -80,15 +88,23 @@ CHARACTER STARTS HERE
 | Skills				|
 -------------------------
 
-	6 Skill Points
 	Nature Sense: +2 Knowledge(Nature) and Survival
 	Wild Empathy: +2 to influence animal attitudes
+
+	Heal					+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+7	=	+ 1 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
+	Profession (Herbalist) 	+7	=	+ 1 Free 	+ 3 WIS	+ 3 Class Skill
+	Spellcraft				+5	=	+ 1 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+9	=	+ 1 Rank 	+ 3 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+4	=	+ 1 Rank	+ 0 STR + 3 Class Skill
+	Swim (Special)			+12	=	+ 1 Rank	+ 0 STR + 3 Class Skill + 8 Swim Speed
 
 -------------------------
 | Feats					|
 -------------------------
 
-	1st Level Druid: 
+	1st Level Druid: Combat Casting (+4 Concentration)
 
 -------------------------
 | Spells & Abilities	|
@@ -109,7 +125,7 @@ CHARACTER STARTS HERE
 | Social				|
 -------------------------
 
-Languages: Common, Aquan (Racial), Druidic (Druid), ___ (INT), ___ (INT)
+Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT)
 
 
 
