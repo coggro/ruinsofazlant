@@ -50,7 +50,8 @@ Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
 	Spellcraft				+5	=	+ 1 Rank	+ 1 INT	+ 3 Class Skill
 	Survival				+9	=	+ 1 Rank 	+ 3 WIS + 3 Class Skill + 2 Nature Sense
 	Swim					+4	=	+ 1 Rank	+ 0 STR + 3 Class Skill
-	Swim (Special)			+12	=	+ 1 Rank	+ 0 STR + 3 Class Skill + 8 Swim Speed
+		+ 8 Swim Speed w/ Special Manuevers/Hazards
+		+ 1 Untyped w/ Current Flow
 
 -------------------------
 | Feats					|
@@ -67,10 +68,17 @@ Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
 
 	*** Spells ***
 	Orisions: 3/day
-	1st Level: 1/day + 1 Domain Slot (Obscuring Mist)
+	1st Level: 1/day + 1 Domain Slot (Hydraulic Push)
+
+		STANDARD LOADOUT
+			0 - Create Water, Detect Magic, Stabilize
+			1 - Snowball, Hydraulic Push (Domain, +1 CL[Water Affinity])
 
 	*** Domain Powers ***
-		Icicle: Ranged touch attack w/i 30 ft, 1d6 + 1 per 2 lvls cold damage.
+		Current Flow (Su)
+			As a free action, increase land or swim speed by 10 feet.
+			While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
+			Lasts a number of rounds equal to WISmod (3).
 			Uses: 3 + WISmod/day (Currently 6)
 
 -------------------------
