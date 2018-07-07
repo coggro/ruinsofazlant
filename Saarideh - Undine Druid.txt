@@ -1,5 +1,5 @@
 Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
-
+Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 -------------------------
 | Attributes			|
 -------------------------
@@ -34,7 +34,19 @@ Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
 
 	HP: 9
 
+	AC: 15	=	10 Base	+	2 DEX +	3 Wood Armor
+	FF: 13		Touch: 12
+
 	BAB: +0
+
+	Scimitar:
+		+0/1d6/18-20/x2
+
+	Dagger:
+		+0/1d6/x2/10ft
+
+	Shortspear:
+		+0/1d6/x2/20ft
 
 -------------------------
 | Skills				|
@@ -44,7 +56,7 @@ Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
 	Wild Empathy: +2 to influence animal attitudes
 
 	Heal					+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
-	Knowledge (Nature)		+7	=	+ 1 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Knowledge (Nature)		+7	=	+ 1 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sensep
 	Perception				+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
 	Profession (Herbalist) 	+7	=	+ 1 Free 	+ 3 WIS	+ 3 Class Skill
 	Spellcraft				+5	=	+ 1 Rank	+ 1 INT	+ 3 Class Skill
