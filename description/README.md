@@ -8,6 +8,6 @@ She accomplishes her duties fastidiously, and often with a bit of flair. For ins
 
 At night, she asks to go review star charts with the navigator, and they quiz each other on constellations.
 
-##Things Saarideh Says:
+## Things Saarideh Says:
 
 "Tide and tomb..." an exasperated curse
