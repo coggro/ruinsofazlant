@@ -10,4 +10,6 @@ At night, she asks to go review star charts with the navigator, and they quiz ea
 
 ## Things Saarideh Says:
 
-"Tide and tomb..." an exasperated curse
+"Tide and tomb..." -- An exasperated curse
+
+"Nothing is lost to the depths." (occasionally extended: "...If it cannot be found/returned, that's where it was meant to be from the start.") -- When things seem irredeemable or to be going poorly, as an assurance that this is how things were meant to go.
