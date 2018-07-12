@@ -39,6 +39,8 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 	BAB: +0
 
+	Initiative: +2
+
 	Scimitar:
 		+0/1d6/18-20/x2
 
