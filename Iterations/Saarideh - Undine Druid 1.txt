@@ -1,0 +1,129 @@
+Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
+Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
+-------------------------
+| Attributes			|
+-------------------------
+
+	STR 	10	(+0)	=	12 Base	-	2 Undine
+	DEX 	15	(+2)	=	13 Base +	2 Undine
+	CON 	14	(+2)	=	12 Base
+	INT		12	(+1)	=	12 Base
+	WIS 	17	(+3)	=	15 Base +	2 Undine
+	CHA 	12	(+1)	=	12 Base
+
+-------------------------
+| Saves					|
+-------------------------
+	
+	FORT:	3	=	2 Base	+ 2 CON
+	REFL:	2	=	0 Base	+ 2 DEX
+	WILL:	5	=	2 Base	+ 3 WIS
+
+-------------------------
+| Exploration			|
+-------------------------
+
+	Darkvision: 60ft
+	Water Sense (Blindsense 30 ft in same body of water)
+	Speed: 30ft
+	Swim Speed: 30 ft
+
+-------------------------
+| Combat				|
+-------------------------
+
+	HP: 9
+
+	AC: 17	=	10 Base	+	2 DEX +	3 Wood Armor + 2 Darkwood Buckler
+	FF: 13		Touch: 12
+
+	Initiative: +2
+
+	BAB: +0
+	
+	CMB: +0
+	CMD: +12
+
+	Scimitar:
+		+0/1d6/18-20/x2
+
+	Dagger:
+		+0/1d6/x2/-
+		+2/1d6/x2/10ft
+
+	Shortspear:
+		+0/1d6/x2/-
+		+2/1d6/x2/20ft
+
+-------------------------
+| Skills				|
+-------------------------
+
+	Nature Sense: +2 Knowledge(Nature) and Survival
+	Wild Empathy: +2 to influence animal attitudes
+
+	Heal					+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+7	=	+ 1 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
+	Profession (Herbalist) 	+7	=	+ 1 Free 	+ 3 WIS	+ 3 Class Skill
+	Spellcraft				+5	=	+ 1 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+9	=	+ 1 Rank 	+ 3 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+4	=	+ 1 Rank	+ 0 STR + 3 Class Skill
+		+ 8 Swim Speed w/ Special Manuevers/Hazards
+		+ 1 Untyped w/ Current Flow
+
+-------------------------
+| Feats					|
+-------------------------
+
+	1st Level Druid: Combat Casting (+4 Concentration)
+
+-------------------------
+| Spells & Abilities	|
+-------------------------
+
+	Nature Bond (Water Domain)
+	Water Affinity (+1 CL on Water Domain powers & spells)
+
+	*** Spells ***
+	Orisions: 3/day
+	1st Level: 3 = 1/day + 1/day bonus + 1 Domain Slot (Hydraulic Push)
+
+		STANDARD LOADOUT
+			0 - Create Water, Detect Magic, Stabilize
+			1 - Cure Light Wounds, Snowball, Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+		Current LOADOUT
+			0 - Create Water, Detect Magic, Stabilize
+
+	*** Domain Powers ***
+		Current Flow (Su)
+			As a free action, increase land or swim speed by 10 feet.
+			While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
+			Lasts a number of rounds equal to WISmod (3).
+			Uses: 3 + WISmod/day (Currently 6)
+
+-------------------------
+| Social				|
+-------------------------
+
+Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

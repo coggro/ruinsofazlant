@@ -15,9 +15,9 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 | Saves					|
 -------------------------
 	
-	FORT:	3	=	2 Base	+ 2 CON
+	FORT:	5	=	3 Base	+ 2 CON
 	REFL:	2	=	0 Base	+ 2 DEX
-	WILL:	5	=	2 Base	+ 3 WIS
+	WILL:	6	=	3 Base	+ 3 WIS
 
 -------------------------
 | Exploration			|
@@ -32,23 +32,33 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 | Combat				|
 -------------------------
 
-	HP: 9
+	HP: 14
 
-	AC: 15	=	10 Base	+	2 DEX +	3 Wood Armor
-	FF: 13		Touch: 12
-
-	BAB: +0
+	AC: 18	=	10 Base	+	2 DEX +	1 Deflection + 3 Wood Armor 
+					+ 2 Darkwood Buckler
+	FF: 14		Touch: 13
 
 	Initiative: +2
 
+	BAB: +1
+	
+	CMB: +1
+	CMD: +13
+
 	Scimitar:
-		+0/1d6/18-20/x2
+		+1/1d6/18-20/x2
 
 	Dagger:
-		+0/1d6/x2/10ft
+		+1/1d6/x2/-
+		+3/1d6/x2/10ft
 
 	Shortspear:
-		+0/1d6/x2/20ft
+		+1/1d6/x2/-
+		+3/1d6/x2/20ft
+
+	MWK Shortspear:
+		+2/1d6/x2/-
+		+4/1d6/x2/20ft
 
 -------------------------
 | Skills				|
@@ -57,13 +67,13 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Nature Sense: +2 Knowledge(Nature) and Survival
 	Wild Empathy: +2 to influence animal attitudes
 
-	Heal					+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
-	Knowledge (Nature)		+7	=	+ 1 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sensep
-	Perception				+7	=	+ 1 Rank	+ 3 WIS	+ 3 Class Skill
-	Profession (Herbalist) 	+7	=	+ 1 Free 	+ 3 WIS	+ 3 Class Skill
-	Spellcraft				+5	=	+ 1 Rank	+ 1 INT	+ 3 Class Skill
-	Survival				+9	=	+ 1 Rank 	+ 3 WIS + 3 Class Skill + 2 Nature Sense
-	Swim					+4	=	+ 1 Rank	+ 0 STR + 3 Class Skill
+	Heal					+8	=	+ 2 Rank	+ 3 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+8	=	+ 2 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+8	=	+ 2 Rank	+ 3 WIS	+ 3 Class Skill
+	Profession (Herbalist) 	+8	=	+ 2 Free 	+ 3 WIS	+ 3 Class Skill
+	Spellcraft				+6	=	+ 2 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+10	=	+ 2 Rank 	+ 3 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+5	=	+ 2 Rank	+ 0 STR + 3 Class Skill
 		+ 8 Swim Speed w/ Special Manuevers/Hazards
 		+ 1 Untyped w/ Current Flow
 
@@ -79,14 +89,20 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 	Nature Bond (Water Domain)
 	Water Affinity (+1 CL on Water Domain powers & spells)
+	Water Sense
+	Woodland Stride
 
 	*** Spells ***
-	Orisions: 3/day
-	1st Level: 1/day + 1 Domain Slot (Hydraulic Push)
+	Orisions: 4/day
+	1st Level: 4 = 1/day + 1/day bonus + 1 Domain Slot (Hydraulic Push)
 
 		STANDARD LOADOUT
-			0 - Create Water, Detect Magic, Stabilize
-			1 - Snowball, Hydraulic Push (Domain, +1 CL[Water Affinity])
+			0 - Create Water, Detect Magic, Light, Stabilize
+			1 - Cure Light Wounds, Snowball, Frostbite, Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+		CURRENT LOADOUT
+			0 - Create Water, Detect Magic, Light, Stabilize
+			1 - Cure Light Wounds, Frostbite, Hydraulic Push (Domain, +1 CL[Water Affinity])
 
 	*** Domain Powers ***
 		Current Flow (Su)
@@ -100,22 +116,3 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 -------------------------
 
 Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
