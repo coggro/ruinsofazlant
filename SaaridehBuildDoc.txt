@@ -145,3 +145,10 @@ Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT)
 
 
 
+X +1d8+2 HP: 8
+X +1 to all skills
+X +1 BAB
+X +1 1st level spell
+X +1 4th level spell
+X +1 Feat
+    Spell Penetration

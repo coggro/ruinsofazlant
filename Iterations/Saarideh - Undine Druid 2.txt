@@ -1,5 +1,6 @@
 Saarideh, Undine Druid (Water Domain) 1 [TN Amphibious Aquatic Outsider]
 Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
+
 -------------------------
 | Attributes			|
 -------------------------
@@ -102,7 +103,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 		CURRENT LOADOUT
 			0 - Create Water, Detect Magic, Light, Stabilize
-			1 - Cure Light Wounds, Frostbite, Hydraulic Push (Domain, +1 CL[Water Affinity])
+			1 - Cure Light Wounds, Snowball, Frostbite, Hydraulic Push (Domain, +1 CL[Water Affinity])
 
 	*** Domain Powers ***
 		Current Flow (Su)
