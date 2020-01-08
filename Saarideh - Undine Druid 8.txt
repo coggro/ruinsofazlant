@@ -9,16 +9,16 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	DEX 	15	(+2)	=	13 Base 	+ 2 Undine
 	CON 	14	(+2)	=	12 Base
 	INT		12	(+1)	=	12 Base
-	WIS 	18	(+4)	=	15 Base 	+ 2 Undine	+ 1 lvl 4
+	WIS 	18	(+3)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 - 1 drain
 	CHA 	12	(+1)	=	12 Base
 
 -------------------------
 | Saves					|
 -------------------------
 	
-	FORT:	8	=	5 Base	+ 2 CON	+ 1 Cloak
+	FORT:	9	=	6 Base	+ 2 CON	+ 1 Cloak
 	REFL:	5	=	2 Base	+ 2 DEX	+ 1 Cloak
-	WILL:	10	=	5 Base	+ 4 WIS	+ 1 Cloak
+	WILL:	11	=	6 Base	+ 4 WIS	+ 1 Cloak
 
 	Resist Nature's Lure
 		+4 vs Spell-like/Supernatural abilities of fey, spells and effects that target plants (blight, entangle, spike growth, warp wood)
@@ -36,7 +36,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 | Combat				|
 -------------------------
 
-	HP: 56/58
+	HP: 66/68
 
 	AC: 20	=	10 Base	+	2 DEX +	1 Deflection + 3 Wood Armor 
 					+ 2 Darkwood Buckler + 1 Natural Armor (ENH)
@@ -50,8 +50,9 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	AC: 20	FF: 16	Touch: 12
 
 	Barkskin AC
-	AC: 21 =	10 Base + 	2 DEX + 1 Deflection + 3 Wood Armor
+	AC: 22 =	10 Base + 	2 DEX + 1 Deflection + 3 Wood Armor
 					+ 2 Darkwood Buckler + 3 Natural (ENH)
+					+ 1 Ioun Stone (IOUN)
 	FF: 16		Touch: 13
 
 	Initiative: +7
@@ -59,32 +60,37 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		+4 Improved Initiative
 		+1 Competence (ioun stone)
 
-	BAB: +5
+	BAB: +6/+1
 	
-	CMB: +5
-	CMD: 17
+	CMB: +6
+	CMD: 18
 	
 	Wild Shape: Large
-	CMB: +8
-	CMD: 19
+	CMB: +9
+	CMD: 20
 
 	+1 Trident
-		+6/1d8+1/x2
+		+7/1d8+1/x2
+			+2/1d8+1/x2
 
 	Scimitar:
-		+5/1d6/18-20/x2
+		+6/1d6/18-20/x2
+			+1/1d6/18-20/x2
 
 	Dagger:
-		+5/1d6/x2/-
-		+7/1d6/x2/10ft
+		+6/1d6/x2/-
+			+1/1d6/x2/-
+		+8/1d6/x2/10ft
 
 	Shortspear:
-		+5/1d6/x2/-
-		+7/1d6/x2/20ft
+		+6/1d6/x2/-
+			+1/1d6/x2/-
+		+8/1d6/x2/20ft
 
 	MWK Shortspear:
-		+6/1d6/x2/-
-		+8/1d6/x2/20ft
+		+7/1d6/x2/-
+			+2/1d6/x2/-
+		+9/1d6/x2/20ft
 
 -------------------------
 | Skills				|
@@ -93,13 +99,13 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Nature Sense: +2 Knowledge(Nature) and Survival
 	Wild Empathy: +2 to influence animal attitudes
 
-	Heal					+14	=	+ 7 Rank	+ 4 WIS	+ 3 Class Skill
-	Knowledge (Nature)		+13	=	+ 7 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
-	Perception				+15	=	+ 7 Rank	+ 4 WIS	+ 3 Class Skill + 1 Ioun Stone
-	Profession (Herbalist) 	+14	=	+ 7 Free 	+ 4 WIS	+ 3 Class Skill
-	Spellcraft				+11	=	+ 7 Rank	+ 1 INT	+ 3 Class Skill
-	Survival				+16	=	+ 7 Rank 	+ 4 WIS + 3 Class Skill + 2 Nature Sense
-	Swim					+10	=	+ 7 Rank	+ 0 STR + 3 Class Skill
+	Heal					+15	=	+ 8 Rank	+ 4 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+14	=	+ 8 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+16	=	+ 8 Rank	+ 4 WIS	+ 3 Class Skill + 1 Ioun Stone
+	Profession (Herbalist) 	+15	=	+ 8 Free 	+ 4 WIS	+ 3 Class Skill
+	Spellcraft				+12	=	+ 8 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+17	=	+ 8 Rank 	+ 4 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+11	=	+ 8 Rank	+ 0 STR + 3 Class Skill
 		+ 8 Swim Speed w/ Special Manuevers/Hazards
 		+ 1 Untyped w/ Current Flow
 
@@ -122,7 +128,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Woodland Stride
 	Trackless Step
 	Resist Nature's Lure
-	Wild Shape (1/day)
+	Wild Shape (3/day)
 
 	*** Spells ***
 	Orisions: 4/day
@@ -132,28 +138,114 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		DC:		16 = 10 + 2 Spell Level + 4 WIS 
 	3rd Level: 	4 = 2/day + 1/day bonus + 1 Domain Slot (Water Walk)
 		DC:		17 = 10 + 3 Spell Level + 4 WIS
-	4rd Level: 	3 = 1/day + 1/day bonus + 1 Domain Slot (Control Water)
+	4th Level: 	3 = 1/day + 1/day bonus + 1 Domain Slot (Control Water)
 		DC:		18 = 10 + 4 Spell Level + 4 WIS
 
 
 		STANDARD LOADOUT
-			0 - Create Water, Detect Magic, Light, Stabilize, Virtue
-			1 - Cure Light Wounds, Cure Light Wounds, Snowball, Frostbite, Entangle, Hydraulic Push (Domain, +1 CL[Water Affinity])
-			PoP Recall _ : Cure Light Wounds, Snowball, Frostbite, Hydraulic Push (Domain, +1 CL[Water Affinity])
-				SWAPS: Entangle, Pass Without Trace
-			2 - Barkskin, Flaming Sphere, Flaming Sphere, Owl's Wisdom, Slipstream (Domain)
-				SWAPS: Aboleth's Lung, Barkskin, Eagle Eye, Owl's Wisdom, Slipstream, Spider Climb
-			3 - Call Lightning, Call Lightning, Cure Moderate Wounds, Water Walk (Domain, +1 CL[Water Affinity])
-				SWAPS: Call Lightning, Cure Moderate Wounds, Plant Growth, Remove Disease, Spider Climb (Communal), Wind Wall, Water Breathing
-			4 - Ball Lightning, Dispel Magic, Control Water (Domain, +1 CL[Water Affinity])
-				SWAPS: Cure Serious Wounds, Flame Strike, Greater Flaming Sphere, Ice Storm, Life Bubble, Communal Protection from Energy, Reincarnate, Scrying
+			Orisons
+				Create Water
+				Detect Magic 
+				Light
+				Stabilize
+			
+			1st Level (4 + 1 Bonus + 1 Domain)
+				Cure Light Wounds
+				Cure Light Wounds
+				Snowball 
+				Frostbite
+				Entangle
+				Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall _ _ : 
+					Cure Light Wounds
+					Snowball
+					Frostbite
+					Entangle
+					Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				Swaps: 
+					Entangle
+					Pass Without Trace
+
+			2nd Level (3 + 1 Bonus + 1 Domain)
+				Barkskin
+				Flaming Sphere
+				Flaming Sphere
+				Owl's Wisdom
+				Slipstream (Domain)
+				
+				Swaps: 
+					Aboleth's Lung
+					Barkskin
+					Eagle Eye
+					Owl's Wisdom
+					Slipstream
+					Spider Climb
+
+			3rd Level (3 + 1 Bonus + 1 Domain)
+				Call Lightning
+				Call Lightning
+				Cure Moderate Wounds
+				Water Walk (Domain, +1 CL[Water Affinity])
+				
+				Swaps: 
+					Call Lightning
+					Cure Moderate Wounds
+					Plant Growth
+					Remove Disease
+					Spider Climb (Communal)
+					Wind Wall
+					Water Breathing
+
+			4th Level (2 + 1 Bonus + 1 Domain) 
+				Ball Lightning
+				Dispel Magic
+				Control Water (Domain, +1 CL[Water Affinity])
+
+				Swaps: 
+					Cure Serious Wounds
+					Flame Strike
+					Greater Flaming Sphere
+					Ice Storm
+					Life Bubble
+					Communal Protection from Energy
+					Reincarnate
+					Scrying
 
 		CURRENT LOADOUT
-			0 - Create Water, Detect Magic, Light, Stabilize, Virtue
-			1 - Magic Fang, Entangle, Frostbite
-			PoP Recall _ : Cure Light Wounds, Snowball, Frostbite, Hydraulic Push (Domain, +1 CL[Water Affinity])
-			2 - Flaming Sphere, Owl's Wisdom, Slipstream (Domain)
-			3 - Call Lightning, Cure Moderate Wounds, Water Walk (Domain, +1 CL[Water Affinity])
+			Orisons
+				Create Water
+				Detect Magic 
+				Light
+				Stabilize
+			
+			1st Level (4 + 1 Bonus + 1 Domain)
+				Pass Without Trace
+				Entangle
+				Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall X _ : 
+					Cure Light Wounds
+					Snowball
+					Pass Without Trace
+					Entangle
+					Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+			2nd Level (3 + 1 Bonus + 1 Domain)
+				Flaming Sphere
+				Flaming Sphere
+				Owl's Wisdom
+				Slipstream (Domain)
+
+			3rd Level (3 + 1 Bonus + 1 Domain)
+				Cure Moderate Wounds
+				Water Walk (Domain, +1 CL[Water Affinity])
+
+			4th Level (2 + 1 Bonus + 1 Domain) 
+				Flame Strike
+				Dispel Magic
+				Control Water (Domain, +1 CL[Water Affinity])
 
 	*** Domain Powers ***
 		Current Flow (Su)
@@ -161,7 +253,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 			While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
 			Lasts a number of rounds equal to WISmod (4).
 			Uses: 3 + WISmod/day (Currently 7)
-			X _ _ _ _ _ _
+			X X _ _ _ _ _
         
         Cold Resistance (Ex)
             Resist Cold 10
@@ -170,9 +262,9 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	|	Wild Shape	|
 	*****************
 
-	3/day: X _ _
+	4/day: X _ _ _ (3 for class, 1 for Druid's Vestments)
 	Action: Standard
-	Duration: 6 hours (1hr/druid lvl)
+	Duration: 8 hours (1hr/druid lvl)
 
 	As Beast Shape II:
 		Attainable Abilities: Climb 60, Fly 60 (good), swim 60, darkvision 60, low-light vision, scent, grab, pounce, trip
@@ -247,15 +339,15 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 			14 STR
 			13 DEX
 			Wildshape AC: Large
-				AC: 22	FF: 13	Touch: 12
+				AC: 18	FF: 13	Touch: 12
 					+2 dodge
 				BAB +4
-			Octapus
+			Octopus
 				Bite: +6, 1d8+2
 				Tentacle: +1, 1d4+1
 			Bear
 				Bite: +6, 1d6+2
-				Clawx2: +6, 1d6+2
+				Claw x2: +6, 1d6+2
 				
 
 -------------------------
