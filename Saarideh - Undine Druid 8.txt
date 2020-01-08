@@ -221,29 +221,35 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Stabilize
 			
 			1st Level (4 + 1 Bonus + 1 Domain)
-				Pass Without Trace
+				Cure Light Wounds
+				Cure Light Wounds
+				Snowball 
+				Frostbite
 				Entangle
 				Hydraulic Push (Domain, +1 CL[Water Affinity])
 				
-				PoP Recall X _ : 
+				PoP Recall _ _ : 
 					Cure Light Wounds
 					Snowball
-					Pass Without Trace
+					Frostbite
 					Entangle
 					Hydraulic Push (Domain, +1 CL[Water Affinity])
 
 			2nd Level (3 + 1 Bonus + 1 Domain)
+				Barkskin
 				Flaming Sphere
 				Flaming Sphere
 				Owl's Wisdom
 				Slipstream (Domain)
 
 			3rd Level (3 + 1 Bonus + 1 Domain)
+				Call Lightning
+				Call Lightning
 				Cure Moderate Wounds
 				Water Walk (Domain, +1 CL[Water Affinity])
 
 			4th Level (2 + 1 Bonus + 1 Domain) 
-				Flame Strike
+				Ball Lightning
 				Dispel Magic
 				Control Water (Domain, +1 CL[Water Affinity])
 
@@ -253,7 +259,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 			While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
 			Lasts a number of rounds equal to WISmod (4).
 			Uses: 3 + WISmod/day (Currently 7)
-			X X _ _ _ _ _
+			_ _ _ _ _ _ _
         
         Cold Resistance (Ex)
             Resist Cold 10
@@ -262,7 +268,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	|	Wild Shape	|
 	*****************
 
-	4/day: X _ _ _ (3 for class, 1 for Druid's Vestments)
+	3/day: _ _ _ (3 for class)
 	Action: Standard
 	Duration: 8 hours (1hr/druid lvl)
 
