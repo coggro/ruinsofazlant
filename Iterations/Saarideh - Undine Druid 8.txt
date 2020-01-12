@@ -1,0 +1,363 @@
+Saarideh, Undine Druid (Water Domain, River Subdomain) 1 [TN Amphibious Aquatic Outsider]
+Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
+
+-------------------------
+| Attributes			|
+-------------------------
+
+	STR 	10	(+0)	=	12 Base		- 2 Undine
+	DEX 	15	(+2)	=	13 Base 	+ 2 Undine
+	CON 	14	(+2)	=	12 Base
+	INT		12	(+1)	=	12 Base
+	WIS 	18	(+3)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 - 1 drain
+	CHA 	12	(+1)	=	12 Base
+
+-------------------------
+| Saves					|
+-------------------------
+	
+	FORT:	9	=	6 Base	+ 2 CON	+ 1 Cloak
+	REFL:	5	=	2 Base	+ 2 DEX	+ 1 Cloak
+	WILL:	11	=	6 Base	+ 4 WIS	+ 1 Cloak
+
+	Resist Nature's Lure
+		+4 vs Spell-like/Supernatural abilities of fey, spells and effects that target plants (blight, entangle, spike growth, warp wood)
+
+-------------------------
+| Exploration			|
+-------------------------
+
+	Darkvision: 60ft
+	Water Sense (Blindsense 30 ft in same body of water)
+	Speed: 30ft
+	Swim Speed: 30 ft
+
+-------------------------
+| Combat				|
+-------------------------
+
+	HP: 66/68
+
+	AC: 20	=	10 Base	+	2 DEX +	1 Deflection + 3 Wood Armor 
+					+ 2 Darkwood Buckler + 1 Natural Armor (ENH)
+					+ 1 Ioun Stone (IOUN)
+	FF: 15		Touch: 14
+
+	Wildshape AC: Large
+	AC: 17	FF: 13	Touch: 12
+
+	Wildshape AC: Large Ironskin
+	AC: 20	FF: 16	Touch: 12
+
+	Barkskin AC
+	AC: 22 =	10 Base + 	2 DEX + 1 Deflection + 3 Wood Armor
+					+ 2 Darkwood Buckler + 3 Natural (ENH)
+					+ 1 Ioun Stone (IOUN)
+	FF: 16		Touch: 13
+
+	Initiative: +7
+		+2 Dexterity
+		+4 Improved Initiative
+		+1 Competence (ioun stone)
+
+	BAB: +6/+1
+	
+	CMB: +6
+	CMD: 18
+	
+	Wild Shape: Large
+	CMB: +9
+	CMD: 20
+
+	+1 Trident
+		+7/1d8+1/x2
+			+2/1d8+1/x2
+
+	Scimitar:
+		+6/1d6/18-20/x2
+			+1/1d6/18-20/x2
+
+	Dagger:
+		+6/1d6/x2/-
+			+1/1d6/x2/-
+		+8/1d6/x2/10ft
+
+	Shortspear:
+		+6/1d6/x2/-
+			+1/1d6/x2/-
+		+8/1d6/x2/20ft
+
+	MWK Shortspear:
+		+7/1d6/x2/-
+			+2/1d6/x2/-
+		+9/1d6/x2/20ft
+
+-------------------------
+| Skills				|
+-------------------------
+
+	Nature Sense: +2 Knowledge(Nature) and Survival
+	Wild Empathy: +2 to influence animal attitudes
+
+	Heal					+15	=	+ 8 Rank	+ 4 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+14	=	+ 8 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+16	=	+ 8 Rank	+ 4 WIS	+ 3 Class Skill + 1 Ioun Stone
+	Profession (Herbalist) 	+15	=	+ 8 Free 	+ 4 WIS	+ 3 Class Skill
+	Spellcraft				+12	=	+ 8 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+17	=	+ 8 Rank 	+ 4 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+11	=	+ 8 Rank	+ 0 STR + 3 Class Skill
+		+ 8 Swim Speed w/ Special Manuevers/Hazards
+		+ 1 Untyped w/ Current Flow
+
+-------------------------
+| Feats					|
+-------------------------
+
+	1st Level Druid: Combat Casting (+4 Concentration)
+	3rd Level Druid: Improved Initiative
+	5th Level Druid: Natural Spell
+	7th Level Druid: Spell Penetration
+
+-------------------------
+| Spells & Abilities	|
+-------------------------
+
+	Nature Bond (Water Domain, Rivers Subdomain)
+	Water Affinity (+1 CL on Water Domain powers & spells)
+	Water Sense
+	Woodland Stride
+	Trackless Step
+	Resist Nature's Lure
+	Wild Shape (3/day)
+
+	*** Spells ***
+	Orisions: 4/day
+	1st Level: 	6 = 4/day + 1/day bonus + 1 Domain Slot (Hydraulic Push)
+		DC:		15 = 10 + 1 Spell Level + 4 WIS 
+	2nd Level: 	5 = 3/day + 1/day bonus + 1 Domain Slot (Fog Cloud)
+		DC:		16 = 10 + 2 Spell Level + 4 WIS 
+	3rd Level: 	4 = 2/day + 1/day bonus + 1 Domain Slot (Water Walk)
+		DC:		17 = 10 + 3 Spell Level + 4 WIS
+	4th Level: 	3 = 1/day + 1/day bonus + 1 Domain Slot (Control Water)
+		DC:		18 = 10 + 4 Spell Level + 4 WIS
+
+
+		STANDARD LOADOUT
+			Orisons
+				Create Water
+				Detect Magic 
+				Light
+				Stabilize
+			
+			1st Level (4 + 1 Bonus + 1 Domain)
+				Cure Light Wounds
+				Cure Light Wounds
+				Snowball 
+				Frostbite
+				Entangle
+				Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall _ _ : 
+					Cure Light Wounds
+					Snowball
+					Frostbite
+					Entangle
+					Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				Swaps: 
+					Entangle
+					Pass Without Trace
+
+			2nd Level (3 + 1 Bonus + 1 Domain)
+				Barkskin
+				Flaming Sphere
+				Flaming Sphere
+				Owl's Wisdom
+				Slipstream (Domain)
+				
+				Swaps: 
+					Aboleth's Lung
+					Barkskin
+					Eagle Eye
+					Owl's Wisdom
+					Slipstream
+					Spider Climb
+
+			3rd Level (3 + 1 Bonus + 1 Domain)
+				Call Lightning
+				Call Lightning
+				Cure Moderate Wounds
+				Water Walk (Domain, +1 CL[Water Affinity])
+				
+				Swaps: 
+					Call Lightning
+					Cure Moderate Wounds
+					Plant Growth
+					Remove Disease
+					Spider Climb (Communal)
+					Wind Wall
+					Water Breathing
+
+			4th Level (2 + 1 Bonus + 1 Domain) 
+				Ball Lightning
+				Dispel Magic
+				Control Water (Domain, +1 CL[Water Affinity])
+
+				Swaps: 
+					Cure Serious Wounds
+					Flame Strike
+					Greater Flaming Sphere
+					Ice Storm
+					Life Bubble
+					Communal Protection from Energy
+					Reincarnate
+					Scrying
+
+		CURRENT LOADOUT
+			Orisons
+				Create Water
+				Detect Magic 
+				Light
+				Stabilize
+			
+			1st Level (4 + 1 Bonus + 1 Domain)
+				Cure Light Wounds
+				Cure Light Wounds
+				Snowball 
+				Frostbite
+				Entangle
+				Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall _ _ : 
+					Cure Light Wounds
+					Snowball
+					Frostbite
+					Entangle
+					Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+			2nd Level (3 + 1 Bonus + 1 Domain)
+				Barkskin
+				Flaming Sphere
+				Flaming Sphere
+				Owl's Wisdom
+				Slipstream (Domain)
+
+			3rd Level (3 + 1 Bonus + 1 Domain)
+				Call Lightning
+				Call Lightning
+				Cure Moderate Wounds
+				Water Walk (Domain, +1 CL[Water Affinity])
+
+			4th Level (2 + 1 Bonus + 1 Domain) 
+				Ball Lightning
+				Dispel Magic
+				Control Water (Domain, +1 CL[Water Affinity])
+
+	*** Domain Powers ***
+		Current Flow (Su)
+			As a free action, increase land or swim speed by 10 feet.
+			While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
+			Lasts a number of rounds equal to WISmod (4).
+			Uses: 3 + WISmod/day (Currently 7)
+			_ _ _ _ _ _ _
+        
+        Cold Resistance (Ex)
+            Resist Cold 10
+
+	*****************
+	|	Wild Shape	|
+	*****************
+
+	3/day: _ _ _ (3 for class)
+	Action: Standard
+	Duration: 8 hours (1hr/druid lvl)
+
+	As Beast Shape II:
+		Attainable Abilities: Climb 60, Fly 60 (good), swim 60, darkvision 60, low-light vision, scent, grab, pounce, trip
+		Tiny: +4 DEX, -2 STR, +1 Natural Armor
+
+        Small: +2 DEX, +1 Natural Armor
+			Antelope
+			Badger
+			Dog, Common
+			Donkey Rat
+			Eagle
+			Eel, Electric
+			Goat
+			Great Horned Owl
+			Octopus
+			Pig
+			Primate, Baboon
+			Rat, Dire
+			Thylacine
+			Vulture
+			Aurumvorax
+			Blindheim
+			Chupacabra
+			Clawbat
+			Cockatrice
+			Darkmantle
+			Gryph
+			Shocker Lizard
+			Voonith
+		Medium: +2 STR, +2 Natural Armor
+			Badger, Dire
+			Boar
+			Brush Thylacine
+			Cat, Cheetah
+			Cat, Leopard
+			Dimorphodon
+			Dinosaurus, Deinonychus
+			Dog, Hyena
+			Dog, Riding
+			Dog, Wolf
+			Dolphin, Bottlenose
+			Elk
+			Frog, (Giant)
+			Gar
+			Giant Gecko
+			Giant Porcupine
+			Goblin Dog
+			Herd Animal, Sheep (Ram)
+			Kangaroo
+			Lizard, Monitor
+			Pony
+			Snake, Constrictor
+			Snake, Venomous
+			Squid
+			Stingray
+			Wolverine
+			Aranea
+			Baku
+			Basilisk
+			Blink Dog
+			Bunyip
+			Dweomercat
+			Grodair
+			Jackalwere
+			Krenshar
+			Peryton
+			Siren
+			Slurk
+			Trollhound	
+			Worg
+        Large: +4 STR, -2 DEX, +4 Natural Armor
+			14 STR
+			13 DEX
+			Wildshape AC: Large
+				AC: 18	FF: 13	Touch: 12
+					+2 dodge
+				BAB +4
+			Octopus
+				Bite: +6, 1d8+2
+				Tentacle: +1, 1d4+1
+			Bear
+				Bite: +6, 1d6+2
+				Claw x2: +6, 1d6+2
+				
+
+-------------------------
+| Social				|
+-------------------------
+
+Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT)
