@@ -17,7 +17,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 -------------------------
 	
 	FORT:	9	=	6 Base	+ 2 CON	+ 1 Cloak
-	REFL:	5	=	2 Base	+ 2 DEX	+ 1 Cloak
+	REFL:	6	=	3 Base	+ 2 DEX	+ 1 Cloak
 	WILL:	11	=	6 Base	+ 4 WIS	+ 1 Cloak
 
 	Resist Nature's Lure
@@ -99,13 +99,13 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Nature Sense: +2 Knowledge(Nature) and Survival
 	Wild Empathy: +2 to influence animal attitudes
 
-	Heal					+15	=	+ 8 Rank	+ 4 WIS	+ 3 Class Skill
-	Knowledge (Nature)		+14	=	+ 8 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
-	Perception				+16	=	+ 8 Rank	+ 4 WIS	+ 3 Class Skill + 1 Ioun Stone
-	Profession (Herbalist) 	+15	=	+ 8 Free 	+ 4 WIS	+ 3 Class Skill
-	Spellcraft				+12	=	+ 8 Rank	+ 1 INT	+ 3 Class Skill
-	Survival				+17	=	+ 8 Rank 	+ 4 WIS + 3 Class Skill + 2 Nature Sense
-	Swim					+11	=	+ 8 Rank	+ 0 STR + 3 Class Skill
+	Heal					+16	=	+ 9 Rank	+ 4 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+15	=	+ 9 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+17	=	+ 9 Rank	+ 4 WIS	+ 3 Class Skill + 1 Ioun Stone
+	Profession (Herbalist) 	+16	=	+ 9 Free 	+ 4 WIS	+ 3 Class Skill
+	Spellcraft				+13	=	+ 9 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+18	=	+ 9 Rank 	+ 4 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+12	=	+ 9 Rank	+ 0 STR + 3 Class Skill
 		+ 8 Swim Speed w/ Special Manuevers/Hazards
 		+ 1 Untyped w/ Current Flow
 
@@ -117,6 +117,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	3rd Level Druid: Improved Initiative
 	5th Level Druid: Natural Spell
 	7th Level Druid: Spell Penetration
+	9th Level Druid: Wild Speech
 
 -------------------------
 | Spells & Abilities	|
@@ -129,6 +130,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Trackless Step
 	Resist Nature's Lure
 	Wild Shape (3/day)
+	Venom Immunity
 
 	*** Spells ***
 	Orisions: 4/day
@@ -140,6 +142,8 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		DC:		17 = 10 + 3 Spell Level + 4 WIS
 	4th Level: 	3 = 1/day + 1/day bonus + 1 Domain Slot (Control Water)
 		DC:		18 = 10 + 4 Spell Level + 4 WIS
+	5th Level: 	2 = 1/day + 1 Domain Slot (Ice Storm)
+		DC:		19 = 10 + 5 Spell Level + 4 WIS
 
 
 		STANDARD LOADOUT
@@ -173,6 +177,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Flaming Sphere
 				Flaming Sphere
 				Owl's Wisdom
+				Spider Climb
 				Slipstream (Domain)
 				
 				Swaps: 
@@ -212,6 +217,10 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Communal Protection from Energy
 					Reincarnate
 					Scrying
+			
+			5th Level (1 + 1 Domain)
+				
+				Ice Storm (Domain)
 
 		CURRENT LOADOUT
 			Orisons
@@ -240,6 +249,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Flaming Sphere
 				Flaming Sphere
 				Owl's Wisdom
+				Spider Climb
 				Slipstream (Domain)
 
 			3rd Level (3 + 1 Bonus + 1 Domain)
@@ -252,6 +262,10 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Ball Lightning
 				Dispel Magic
 				Control Water (Domain, +1 CL[Water Affinity])
+			
+			5th Level (1 + 1 Domain)
+				Stoneskin
+				Ice Storm (Domain)
 
 	*** Domain Powers ***
 		Current Flow (Su)
