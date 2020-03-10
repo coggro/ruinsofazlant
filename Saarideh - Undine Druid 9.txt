@@ -1,4 +1,4 @@
-Saarideh, Undine Druid (Water Domain, River Subdomain) 1 [TN Amphibious Aquatic Outsider]
+Saarideh, Undine Druid (Water Domain, River Subdomain) 9 [TN Amphibious Aquatic Outsider]
 Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 -------------------------
@@ -9,7 +9,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	DEX 	15	(+2)	=	13 Base 	+ 2 Undine
 	CON 	14	(+2)	=	12 Base
 	INT		12	(+1)	=	12 Base
-	WIS 	18	(+3)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 - 1 drain
+	WIS 	18	(+4)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8
 	CHA 	12	(+1)	=	12 Base
 
 -------------------------
@@ -49,9 +49,12 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Wildshape AC: Large Ironskin
 	AC: 20	FF: 16	Touch: 12
 
+	Wildshape AC: Huge
+	AC: 23  FF: 23  Touch: 10
+
 	Barkskin AC
-	AC: 22 =	10 Base + 	2 DEX + 1 Deflection + 3 Wood Armor
-					+ 2 Darkwood Buckler + 3 Natural (ENH)
+	AC: 23 =	10 Base + 	2 DEX + 1 Deflection + 3 Wood Armor
+					+ 2 Darkwood Buckler + 4 Natural (ENH)
 					+ 1 Ioun Stone (IOUN)
 	FF: 16		Touch: 13
 
@@ -97,7 +100,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 -------------------------
 
 	Nature Sense: +2 Knowledge(Nature) and Survival
-	Wild Empathy: +2 to influence animal attitudes
+	Wild Empathy: +11 to influence animal attitudes
 
 	Heal					+16	=	+ 9 Rank	+ 4 WIS	+ 3 Class Skill
 	Knowledge (Nature)		+15	=	+ 9 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
@@ -204,7 +207,8 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Water Breathing
 
 			4th Level (2 + 1 Bonus + 1 Domain) 
-				Ball Lightning
+				Cure Serious Wounds
+				Flame Strike
 				Dispel Magic
 				Control Water (Domain, +1 CL[Water Affinity])
 
@@ -219,7 +223,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Scrying
 			
 			5th Level (1 + 1 Domain)
-				
+				Vinetrap
 				Ice Storm (Domain)
 
 		CURRENT LOADOUT
@@ -230,41 +234,61 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Stabilize
 			
 			1st Level (4 + 1 Bonus + 1 Domain)
-				Cure Light Wounds
-				Cure Light Wounds
 				Snowball 
 				Frostbite
 				Entangle
 				Hydraulic Push (Domain, +1 CL[Water Affinity])
 				
-				PoP Recall _ _ : 
+				PoP Recall X X : 
 					Cure Light Wounds
 					Snowball
 					Frostbite
 					Entangle
 					Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				Swaps: 
+					Entangle
+					Pass Without Trace
 
 			2nd Level (3 + 1 Bonus + 1 Domain)
-				Barkskin
-				Flaming Sphere
-				Flaming Sphere
 				Owl's Wisdom
-				Spider Climb
 				Slipstream (Domain)
+				
+				Swaps: 
+					Aboleth's Lung
+					Barkskin
+					Eagle Eye
+					Owl's Wisdom
+					Slipstream
+					Spider Climb
 
 			3rd Level (3 + 1 Bonus + 1 Domain)
 				Call Lightning
-				Call Lightning
-				Cure Moderate Wounds
 				Water Walk (Domain, +1 CL[Water Affinity])
+				
+				Swaps: 
+					Call Lightning
+					Cure Moderate Wounds
+					Plant Growth
+					Remove Disease
+					Spider Climb (Communal)
+					Wind Wall
+					Water Breathing
 
 			4th Level (2 + 1 Bonus + 1 Domain) 
-				Ball Lightning
-				Dispel Magic
 				Control Water (Domain, +1 CL[Water Affinity])
+
+				Swaps: 
+					Cure Serious Wounds
+					Flame Strike
+					Greater Flaming Sphere
+					Ice Storm
+					Life Bubble
+					Communal Protection from Energy
+					Reincarnate
+					Scrying
 			
 			5th Level (1 + 1 Domain)
-				Stoneskin
 				Ice Storm (Domain)
 
 	*** Domain Powers ***
@@ -277,6 +301,8 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
         
         Cold Resistance (Ex)
             Resist Cold 10
+		Shocking Robe
+			Resist Electricity 5
 
 	*****************
 	|	Wild Shape	|
@@ -284,7 +310,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 	3/day: _ _ _ (3 for class)
 	Action: Standard
-	Duration: 8 hours (1hr/druid lvl)
+	Duration: 9 hours (1hr/druid lvl)
 
 	As Beast Shape II:
 		Attainable Abilities: Climb 60, Fly 60 (good), swim 60, darkvision 60, low-light vision, scent, grab, pounce, trip
