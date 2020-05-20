@@ -9,16 +9,17 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	DEX 	15	(+2)	=	13 Base 	+ 2 Undine
 	CON 	14	(+2)	=	12 Base
 	INT		12	(+1)	=	12 Base
-	WIS 	18	(+4)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8
+	WIS 	21	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+										+ 2 Headband
 	CHA 	12	(+1)	=	12 Base
 
 -------------------------
 | Saves					|
 -------------------------
 	
-	FORT:	9	=	6 Base	+ 2 CON	+ 1 Cloak
-	REFL:	6	=	3 Base	+ 2 DEX	+ 1 Cloak
-	WILL:	11	=	6 Base	+ 4 WIS	+ 1 Cloak
+	FORT:	10	=	6 Base	+ 2 CON	+ 2 Cloak
+	REFL:	7	=	3 Base	+ 2 DEX	+ 2 Cloak
+	WILL:	12	=	6 Base	+ 4 WIS	+ 2 Cloak
 
 	Resist Nature's Lure
 		+4 vs Spell-like/Supernatural abilities of fey, spells and effects that target plants (blight, entangle, spike growth, warp wood)
@@ -138,15 +139,15 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	*** Spells ***
 	Orisions: 4/day
 	1st Level: 	6 = 4/day + 1/day bonus + 1 Domain Slot (Hydraulic Push)
-		DC:		15 = 10 + 1 Spell Level + 4 WIS 
+		DC:		16 = 10 + 1 Spell Level + 5 WIS 
 	2nd Level: 	5 = 3/day + 1/day bonus + 1 Domain Slot (Fog Cloud)
-		DC:		16 = 10 + 2 Spell Level + 4 WIS 
+		DC:		17 = 10 + 2 Spell Level + 5 WIS 
 	3rd Level: 	4 = 2/day + 1/day bonus + 1 Domain Slot (Water Walk)
-		DC:		17 = 10 + 3 Spell Level + 4 WIS
+		DC:		18 = 10 + 3 Spell Level + 5 WIS
 	4th Level: 	3 = 1/day + 1/day bonus + 1 Domain Slot (Control Water)
-		DC:		18 = 10 + 4 Spell Level + 4 WIS
+		DC:		19 = 10 + 4 Spell Level + 5 WIS
 	5th Level: 	2 = 1/day + 1 Domain Slot (Ice Storm)
-		DC:		19 = 10 + 5 Spell Level + 4 WIS
+		DC:		20 = 10 + 5 Spell Level + 5 WIS
 
 
 		STANDARD LOADOUT
@@ -234,12 +235,14 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Stabilize
 			
 			1st Level (4 + 1 Bonus + 1 Domain)
+				Cure Light Wounds
+				Cure Light Wounds
 				Snowball 
 				Frostbite
 				Entangle
 				Hydraulic Push (Domain, +1 CL[Water Affinity])
 				
-				PoP Recall X X : 
+				PoP Recall _ _ : 
 					Cure Light Wounds
 					Snowball
 					Frostbite
@@ -251,7 +254,11 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Pass Without Trace
 
 			2nd Level (3 + 1 Bonus + 1 Domain)
+				Barkskin
+				Flaming Sphere
+				Flaming Sphere
 				Owl's Wisdom
+				Spider Climb
 				Slipstream (Domain)
 				
 				Swaps: 
@@ -263,6 +270,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Spider Climb
 
 			3rd Level (3 + 1 Bonus + 1 Domain)
+				Call Lightning
 				Call Lightning
 				Water Walk (Domain, +1 CL[Water Affinity])
 				
@@ -276,6 +284,9 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Water Breathing
 
 			4th Level (2 + 1 Bonus + 1 Domain) 
+				Cure Serious Wounds
+				Flame Strike
+				Dispel Magic
 				Control Water (Domain, +1 CL[Water Affinity])
 
 				Swaps: 
@@ -289,6 +300,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Scrying
 			
 			5th Level (1 + 1 Domain)
+				Vinetrap
 				Ice Storm (Domain)
 
 	*** Domain Powers ***
@@ -308,7 +320,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	|	Wild Shape	|
 	*****************
 
-	3/day: _ _ _ (3 for class)
+	3/day: X _ _ (3 for class)
 	Action: Standard
 	Duration: 9 hours (1hr/druid lvl)
 

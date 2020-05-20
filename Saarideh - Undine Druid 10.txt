@@ -1,0 +1,474 @@
+Saarideh, Undine Druid (Water Domain, River Subdomain) 10 [TN Amphibious Aquatic Outsider]
+Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
+
+-------------------------
+| Attributes			|
+-------------------------
+
+	STR 	10	(+0)	=	12 Base		- 2 Undine
+	DEX 	15	(+2)	=	13 Base 	+ 2 Undine
+	CON 	14	(+2)	=	12 Base
+	INT		12	(+1)	=	12 Base
+	WIS 	20	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+	CHA 	12	(+1)	=	12 Base				+ 2 Enhancement (Ioun Stone)
+
+-------------------------
+| Saves					|
+-------------------------
+	
+	FORT:	10	=	7 Base	+ 2 CON	+ 1 Cloak
+	REFL:	6	=	3 Base	+ 2 DEX	+ 1 Cloak
+	WILL:	12	=	7 Base	+ 4 WIS	+ 1 Cloak
+
+	Resist Nature's Lure
+		+4 vs Spell-like/Supernatural abilities of fey, spells and effects that target plants (blight, entangle, spike growth, warp wood)
+
+-------------------------
+| Exploration			|
+-------------------------
+
+	Darkvision: 60ft
+	Water Sense (Blindsense 30 ft in same body of water)
+	Speed: 30ft
+	Swim Speed: 30 ft
+
+-------------------------
+| Combat				|
+-------------------------
+
+	HP: 83/83
+
+	AC: 20	=	10 Base	+	2 DEX +	1 Deflection + 4 Wild Spider Silk Armor 
+					+ 2 Darkwood Buckler + 1 Ioun Stone (IOUN)
+	FF: 17		Touch: 14
+
+	Resist Cold 10, Resist Electricity 5
+
+	Initiative: +7
+		+2 Dexterity
+		+4 Improved Initiative
+		+1 Competence (ioun stone)
+
+	BAB: +7/+2
+	
+	CMB: +7
+	CMD: 19
+	
+	Wild Shape: Large
+	CMB: +10
+	CMD: 21
+
+	Wild Shape: Huge
+		Giant Squid
+			16 STR
+			11 DEX
+			AC: 18	=	10 Base	+	0 DEX +	1 Deflection + 1 Ioun Stone (IOUN) + 6 Natural Armor
+			FF: 18		Touch: 10
+			
+			Bite: +11/2d6+1d6+4
+			2 Arms: +11/1d6+1d6+4
+			Tentacles: +11/4d6+1d6+4/19-20, grab
+
+
+
+	+1 Trident
+		+8/1d8+1/x2
+			+3/1d8+1/x2
+
+	Scimitar:
+		+7/1d6/18-20/x2
+			+2/1d6/18-20/x2
+
+	Dagger:
+		+7/1d6/x2/-
+			+2/1d6/x2/-
+		+9/1d6/x2/10ft
+
+	Shortspear:
+		+7/1d6/x2/-
+			+2/1d6/x2/-
+		+9/1d6/x2/20ft
+
+	MWK Shortspear:
+		+8/1d6/x2/-
+			+3/1d6/x2/-
+		+10/1d6/x2/20ft
+
+-------------------------
+| Skills				|
+-------------------------
+
+	Nature Sense: +2 Knowledge(Nature) and Survival
+	Wild Empathy: +11 to influence animal attitudes
+
+	Heal					+18	=	+ 10 Rank	+ 5 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+16	=	+ 10 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+19	=	+ 10 Rank	+ 5 WIS	+ 3 Class Skill + 1 Ioun Stone
+	Profession (Herbalist) 	+18	=	+ 10 Free 	+ 5 WIS	+ 3 Class Skill
+	Spellcraft				+14	=	+ 10 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+20	=	+ 10 Rank 	+ 5 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+13	=	+ 10 Rank	+ 0 STR + 3 Class Skill
+		+ 8 Swim Speed w/ Special Manuevers/Hazards
+		+ 1 Untyped w/ Current Flow
+
+-------------------------
+| Feats					|
+-------------------------
+
+	1st Level Druid: Combat Casting (+4 Concentration)
+	3rd Level Druid: Improved Initiative
+	5th Level Druid: Natural Spell
+	7th Level Druid: Spell Penetration
+	9th Level Druid: Wild Speech
+
+-------------------------
+| Spells & Abilities	|
+-------------------------
+
+	Nature Bond (Water Domain, Rivers Subdomain)
+	Water Affinity (+1 CL on Water Domain powers & spells)
+	Water Sense
+	Woodland Stride
+	Trackless Step
+	Resist Nature's Lure
+	Wild Shape (4/day)
+	Venom Immunity
+
+	*** Spells ***
+	Orisions: 4/day
+	1st Level: 	7 = 4/day + 2/day bonus + 1 Domain Slot (Hydraulic Push)
+		DC:		16 = 10 + 1 Spell Level + 5 WIS 
+	2nd Level: 	5 = 4/day + 1/day bonus + 1 Domain Slot (Fog Cloud)
+		DC:		17 = 10 + 2 Spell Level + 5 WIS 
+	3rd Level: 	4 = 3/day + 1/day bonus + 1 Domain Slot (Water Walk)
+		DC:		18 = 10 + 3 Spell Level + 5 WIS
+	4th Level: 	5 = 3/day + 1/day bonus + 1 Domain Slot (Control Water)
+		DC:		19 = 10 + 4 Spell Level + 5 WIS
+	5th Level: 	3 = 2/day + 1/day bonus + 1 Domain Slot (Ice Storm)
+		DC:		20 = 10 + 5 Spell Level + 5 WIS
+
+
+		STANDARD LOADOUT
+			Orisons
+				Create Water
+				Detect Magic 
+				Light
+				Stabilize
+
+			1st Level (4 + 2 Bonus + 1 Domain)
+				Cure Light Wounds
+				Cure Light Wounds
+				Snowball 
+				Frostbite
+				Entangle
+				Pass Without Trace
+				Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall _ _ : 
+					Cure Light Wounds
+					Snowball
+					Frostbite
+					Entangle
+					Pass Without Trace
+					Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+			2nd Level (4 + 1 Bonus + 1 Domain)
+				Barkskin
+				Barkskin
+				Flaming Sphere
+				Owl's Wisdom
+				Owl's Wisdom
+				Slipstream (Domain)
+
+				Swaps: 
+					Aboleth's Lung
+					Barkskin
+					Defoliate
+					Eagle Eye
+					Greensight
+					Owl's Wisdom
+					Slipstream
+					Spider Climb
+
+			3rd Level (3 + 1 Bonus + 1 Domain)
+				Burst of Nettles
+				Burst of Nettles
+				Call Lightning
+				Cure Moderate Wounds
+				Water Walk (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall: _
+					Burst of Nettles
+					Call Lightning
+					Cure Moderate Wounds
+					Freedom of Movement
+					Water Walk (Domain, +1 CL[Water Affinity])
+
+				Swaps: 
+					Call Lightning
+					Cure Moderate Wounds
+					Plant Growth
+					Remove Disease
+					Spider Climb (Communal)
+					Wind Wall
+					Water Breathing
+
+			4th Level (3 + 1 Bonus + 1 Domain) 
+				Cure Serious Wounds
+				Flame Strike
+				Dispel Magic
+				Control Water
+
+				Swaps: 
+					Cure Serious Wounds
+					Flame Strike
+					Greater Flaming Sphere
+					Ice Storm
+					Life Bubble
+					Communal Protection from Energy
+					Reincarnate
+					Scrying
+			
+			5th Level (2 + 1 Bonus + 1 Domain)
+				Baleful Polymorph
+				Vinetrap
+				Wall of Thorns
+				Ice Storm (Domain, +1 CL[Water Affinity])
+
+				Swaps:
+					Atonement
+					Baleful Polymorph
+					Call Lightning Storm
+					Cure Critical Wounds
+					Glimpse of Truth
+					Hungry Earth
+					Oasis
+					Stoneskin
+					Transmit Rock to Mud
+					Transmit Mud to Rock
+					Tree Stride
+					Vinetrap
+					Wall of Thorns
+
+		CURRENT LOADOUT
+			Orisons
+				Create Water
+				Detect Magic 
+				Light
+				Stabilize
+
+			1st Level (4 + 2 Bonus + 1 Domain)
+				Cure Light Wounds
+				Cure Light Wounds
+				Snowball 
+				Frostbite
+				Entangle
+				Pass Without Trace
+				Hydraulic Push (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall _ _ : 
+					Cure Light Wounds
+					Snowball
+					Frostbite
+					Entangle
+					Pass Without Trace
+					Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+			2nd Level (4 + 1 Bonus + 1 Domain)
+				Barkskin
+				Barkskin
+				Cat's Grace
+				Owl's Wisdom
+				Owl's Wisdom
+				Slipstream (Domain)
+
+				Swaps: 
+					Aboleth's Lung
+					Barkskin
+					Defoliate
+					Eagle Eye
+					Greensight
+					Owl's Wisdom
+					Slipstream
+					Spider Climb
+					Wild Instinct
+
+			3rd Level (3 + 1 Bonus + 1 Domain)
+				Burst of Nettles
+				Call Lightning
+				Cure Moderate Wounds
+				Mirage
+				Water Walk (Domain, +1 CL[Water Affinity])
+				
+				PoP Recall: _
+					Burst of Nettles
+					Call Lightning
+					Cure Moderate Wounds
+					Freedom of Movement
+					Hydrophobia
+					Mirage
+					Water Walk (Domain, +1 CL[Water Affinity])
+
+				Swaps: 
+					Call Lightning
+					Cure Moderate Wounds
+					Plant Growth
+					Remove Disease
+					Spider Climb (Communal)
+					Wind Wall
+					Water Breathing
+
+			4th Level (3 + 1 Bonus + 1 Domain) 
+				Cure Serious Wounds
+				Echolocation
+			  X Echolocation
+				Dispel Magic
+				Control Water
+
+				Swaps: 
+					Bloody Claws
+					Cure Serious Wounds
+					Echolocation
+					Flame Strike
+					Greater Flaming Sphere
+					Ice Storm
+					Life Bubble
+					Communal Protection from Energy
+					Reincarnate
+					Scrying
+			
+			5th Level (2 + 1 Bonus + 1 Domain)
+				Baleful Polymorph
+				Vinetrap
+				Wall of Thorns
+				Ice Storm (Domain, +1 CL[Water Affinity])
+
+				Swaps:
+					Atonement
+					Baleful Polymorph
+					Call Lightning Storm
+					Cure Critical Wounds
+					Glimpse of Truth
+					Hungry Earth
+					Oasis
+					Stoneskin
+					Transmute Rock to Mud
+					Transmute Mud to Rock
+					Tree Stride
+					Vinetrap
+					Wall of Thorns
+
+	*** Domain Powers ***
+		Current Flow (Su)
+			As a free action, increase land or swim speed by 10 feet.
+			While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
+			Lasts a number of rounds equal to WISmod (4).
+			Uses: 3 + WISmod/day (Currently 7)
+			_ _ _ _ _ _ _
+        
+        Cold Resistance (Ex)
+            Resist Cold 10
+		Shocking Robe
+			Resist Electricity 5
+
+	*****************
+	|	Wild Shape	|
+	*****************
+
+	4/day: X X _ _ (4 for class)
+	Action: Standard
+	Duration: 10 hours (1hr/druid lvl)
+
+	As Beast Shape III:
+		Attainable Abilities: burrow 30 feet, climb 90 feet, fly 90 feet (good
+			maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60
+			feet, low-light vision, scent, constrict, ferocity, grab, jet,
+			poison, pounce, rake, trample, trip, and web.
+		
+		Tiny: +4 DEX, -2 STR, +1 Natural Armor
+
+        Small: +2 DEX, +1 Natural Armor
+			Antelope
+			Badger
+			Dog, Common
+			Donkey Rat
+			Eagle
+			Eel, Electric
+			Goat
+			Great Horned Owl
+			Octopus
+			Pig
+			Primate, Baboon
+			Rat, Dire
+			Thylacine
+			Vulture
+			Aurumvorax
+			Blindheim
+			Chupacabra
+			Clawbat
+			Cockatrice
+			Darkmantle
+			Gryph
+			Shocker Lizard
+			Voonith
+		Medium: +2 STR, +2 Natural Armor
+			Badger, Dire
+			Boar
+			Brush Thylacine
+			Cat, Cheetah
+			Cat, Leopard
+			Dimorphodon
+			Dinosaurus, Deinonychus
+			Dog, Hyena
+			Dog, Riding
+			Dog, Wolf
+			Dolphin, Bottlenose
+			Elk
+			Frog, (Giant)
+			Gar
+			Giant Gecko
+			Giant Porcupine
+			Goblin Dog
+			Herd Animal, Sheep (Ram)
+			Kangaroo
+			Lizard, Monitor
+			Pony
+			Snake, Constrictor
+			Snake, Venomous
+			Squid
+			Stingray
+			Wolverine
+			Aranea
+			Baku
+			Basilisk
+			Blink Dog
+			Bunyip
+			Dweomercat
+			Grodair
+			Jackalwere
+			Krenshar
+			Peryton
+			Siren
+			Slurk
+			Trollhound	
+			Worg
+        Large: +4 STR, -2 DEX, +4 Natural Armor
+			14 STR
+			13 DEX
+			Wildshape AC: Large
+				AC: 18	FF: 13	Touch: 12
+					+2 dodge
+				BAB +4
+			Octopus
+				Bite: +6, 1d8+2
+				Tentacle: +1, 1d4+1
+			Bear
+				Bite: +6, 1d6+2
+				Claw x2: +6, 1d6+2
+				
+
+-------------------------
+| Social				|
+-------------------------
+
+Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT)

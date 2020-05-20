@@ -2,48 +2,53 @@
 | Equipment             |
 -------------------------
     
-    Undine Garb
-    Druid's Vestments
-    Shocking Robe
-    Wooden Armor
-    Scimitar
-    3 Shortspears
-    Masterwork Shortspear
+    Air Bladder
     Backpack
     Bedroll
     Belt Pouch
-    Air Bladder
-    Fishing Kit
-    Rope (50 ft)
-    Signal Whistle
-    Twine (99.5 ft)
-    Survival Kit
-    Dagger
-    Magnet
-    Thistle (Rod of Dryad Wood, Druid Focus)
-    +1 Darkwood Buckler
-    25 lbs powdered silver
-    20 blocks of incense
-    100gp of diamond dusts
-    Ring of Protection +1
-    Wayfinder
-    +1 Trident
     +1 Cloak of Resistance
-    Cracked Dusty Rose Prism Ioun Stone
     Complete Dusty Rose Prism Ioun Stone
+    Cracked Dusty Rose Prism Ioun Stone
+    Dagger
+    +1 Darkwood Buckler
+    100gp of diamond dusts
+    Druid's Vestments
+    Fishing Kit
+    20 blocks of incense
+    Incense of Meditation
     Irridescent Blue Spherical Ioun Stone
-    +1 Amulet Of Natural Armor
-    Spellguard Bracers
+    Lesser Maximize Metamagic Rod
+    Magnet
+    Ring of Protection +1
+    Masterwork Shortspear
     Pearl of Power lvl 1 - I
     Pearl of Power lvl 1 - II
     Pearl of Power lvl 3 - I
+    25 lbs powdered silver
+    Rope (50 ft)
+    Shocking Robe
+    Scimitar
+    +1 Shock Amulet of Mighty Fists
+    3 Shortspears
+    Signal Whistle
+    Spellguard Bracers
+    Survival Kit
+    Thistle (Rod of Dryad Wood, Druid Focus)
+    +1 Trident
+    Twine (99.5 ft)
+    Undine Garb
+    Wayfinder
+    Wooden Armor
+    
     Polymorphic Pouch
         Necklace of Air Adaptation
-        Wand/CLW (9 ch)
         Wand/Freedom of Movement (17 ch)
         15 charges of healer's kit
+        4 Oils/CLW
         1 Potion/CLW
+        2 Oils/CMW
         1 Potion/CMW
+        3 Oils/CSW
         Wand of Goodberry (47 ch)
         3 Sunrods
 
@@ -53,34 +58,34 @@
     Weapon:     +1 Trident
     Shield:     +1 Darkwood Buckler
     Head:       
-    Headband:   
+    Headband:   +2 WIS
     Eyes:       
-    Shoulders:  +1 Cloak of Resistance
-    Neck:       +1 Amulet of Natural Armor
+    Shoulders:  +2 Cloak of Resistance
+    Neck:       +1 Shock Amulet of Mighty Fists
     Chest:      
     Body:       Shocking Robe
-    Armor:      
+    Armor:      Wood Armor
     Belt:       
     Wrists:     Spellguard Bracers
     Hands:      
     Ring:       
     Ring:       Ring of Protection +1
     Feet:       
-    Slotless:   Wayfinder
-                Cracked Dusty Rose Prism Ioun Stone
-                Irridescent Blue Spherical Ioun Stone
-                Pale Blue - +1 Swim Bonus
-                Clear Spindle - No Food/Water
-                    Speak Aboleth, immune to mind-affecting effects
-                Polymorphic Pouch
+    Slotless:   
+        Cracked Dusty Rose Prism Ioun Stone (+1 Insight to AC)
+        Incandescent Blue Spherical Ioun Stone (+2 Enhancement to WIS)
+        Lesser Maximize Metamagic Rod
+        Pale Blue - +1 Swim Bonus
+        Polymorphic Pouch
+        Wayfinder
+            Clear Spindle - No Food/Water
+                Speak Aboleth, immune to mind-affecting effects
 
 -------------------------
 | Currency              |
 -------------------------
     
     PP - 0
-    GP - 0
-    SP - 0
-    CP - 8
-
-    YOU OWE LYM 955gp
+    GP - 17503
+    SP - 1
+    CP - 15
