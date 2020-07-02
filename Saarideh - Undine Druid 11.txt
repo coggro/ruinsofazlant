@@ -36,7 +36,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 | Combat				|
 -------------------------
 
-	HP: 93/93
+	HP: 83/83
 
 	AC: 20	=	10 Base	+	2 DEX +	1 Deflection + 4 Wild Spider Silk Armor 
 					+ 2 Darkwood Buckler + 1 Ioun Stone (IOUN)
@@ -49,14 +49,14 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		+4 Improved Initiative
 		+1 Competence (ioun stone)
 
-	BAB: +8/+3
+	BAB: +7/+2
 	
-	CMB: +8
-	CMD: 20
+	CMB: +7
+	CMD: 19
 	
 	Wild Shape: Large
-	CMB: +11
-	CMD: 22
+	CMB: +10
+	CMD: 21
 
 	Wild Shape: Huge
 		Giant Squid
@@ -65,34 +65,34 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 			AC: 18	=	10 Base	+	0 DEX +	1 Deflection + 1 Ioun Stone (IOUN) + 6 Natural Armor
 			FF: 18		Touch: 10
 			
-			Bite: +12/2d6+1d6+4
-			2 Arms: +12/1d6+1d6+4
-			Tentacles: +12/4d6+1d6+4/19-20, grab
+			Bite: +11/2d6+1d6+4
+			2 Arms: +11/1d6+1d6+4
+			Tentacles: +11/4d6+1d6+4/19-20, grab
 
 
 
 	+1 Trident
-		+9/1d8+1/x2
-			+4/1d8+1/x2
+		+8/1d8+1/x2
+			+3/1d8+1/x2
 
 	Scimitar:
-		+8/1d6/18-20/x2
-			+3/1d6/18-20/x2
+		+7/1d6/18-20/x2
+			+2/1d6/18-20/x2
 
 	Dagger:
-		+8/1d6/x2/-
-			+3/1d6/x2/-
-		+10/1d6/x2/10ft
+		+7/1d6/x2/-
+			+2/1d6/x2/-
+		+9/1d6/x2/10ft
 
 	Shortspear:
+		+7/1d6/x2/-
+			+2/1d6/x2/-
+		+9/1d6/x2/20ft
+
+	MWK Shortspear:
 		+8/1d6/x2/-
 			+3/1d6/x2/-
 		+10/1d6/x2/20ft
-
-	MWK Shortspear:
-		+9/1d6/x2/-
-			+4/1d6/x2/-
-		+11/1d6/x2/20ft
 
 -------------------------
 | Skills				|
@@ -101,13 +101,13 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Nature Sense: +2 Knowledge(Nature) and Survival
 	Wild Empathy: +11 to influence animal attitudes
 
-	Heal					+19	=	+ 11 Rank	+ 5 WIS	+ 3 Class Skill
-	Knowledge (Nature)		+17	=	+ 11 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
-	Perception				+20	=	+ 11 Rank	+ 5 WIS	+ 3 Class Skill + 1 Ioun Stone
-	Profession (Herbalist) 	+19	=	+ 11 Free 	+ 5 WIS	+ 3 Class Skill
-	Spellcraft				+15	=	+ 11 Rank	+ 1 INT	+ 3 Class Skill
-	Survival				+21	=	+ 11 Rank 	+ 5 WIS + 3 Class Skill + 2 Nature Sense
-	Swim					+14	=	+ 11 Rank	+ 0 STR + 3 Class Skill
+	Heal					+18	=	+ 10 Rank	+ 5 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+16	=	+ 10 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+19	=	+ 10 Rank	+ 5 WIS	+ 3 Class Skill + 1 Ioun Stone
+	Profession (Herbalist) 	+18	=	+ 10 Free 	+ 5 WIS	+ 3 Class Skill
+	Spellcraft				+14	=	+ 10 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+20	=	+ 10 Rank 	+ 5 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+13	=	+ 10 Rank	+ 0 STR + 3 Class Skill
 		+ 8 Swim Speed w/ Special Manuevers/Hazards
 		+ 1 Untyped w/ Current Flow
 
@@ -120,7 +120,6 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	5th Level Druid: Natural Spell
 	7th Level Druid: Spell Penetration
 	9th Level Druid: Wild Speech
-	11th Level Druid: 
 
 -------------------------
 | Spells & Abilities	|
@@ -147,8 +146,6 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		DC:		19 = 10 + 4 Spell Level + 5 WIS
 	5th Level: 	3 = 2/day + 1/day bonus + 1 Domain Slot (Ice Storm)
 		DC:		20 = 10 + 5 Spell Level + 5 WIS
-	6th Level: 	3 = 1/day + 1 Domain Slot (Fluid Form)
-		DC:		21 = 10 + 6 Spell Level + 5 WIS
 
 
 		STANDARD LOADOUT
@@ -193,7 +190,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Slipstream
 					Spider Climb
 
-			3rd Level (4 + 1 Bonus + 1 Domain)
+			3rd Level (3 + 1 Bonus + 1 Domain)
 				Burst of Nettles
 				Burst of Nettles
 				Call Lightning
@@ -210,8 +207,6 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Swaps: 
 					Call Lightning
 					Cure Moderate Wounds
-					Daylight
-					Ice Spears
 					Plant Growth
 					Remove Disease
 					Spider Climb (Communal)
@@ -254,18 +249,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Tree Stride
 					Vinetrap
 					Wall of Thorns
-			6th Level (1 + 1 Domain)
-			    Antilife Shell
-				Fluid Form (Domain +1 CL[Water Affinity])
 
-				Swaps:
-					Antilife Shell
-					Eagle Aerie
-					Greater Dispel Magic
-					Mass Bear/Bull/Cat/Eagle/Fox/Owl
-					Mass Cure Light Wounds
-					Transport Via Plants
-					
 		CURRENT LOADOUT
 			Orisons
 				Create Water
