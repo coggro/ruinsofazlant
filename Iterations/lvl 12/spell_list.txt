@@ -1,0 +1,61 @@
+STANDARD LOADOUT
+    Orisons
+        Create Water
+        Detect Magic 
+        Light
+        Stabilize
+
+    1st Level (4 + 2 Bonus + 1 Domain)
+        Snowball 
+        Faerie Fire
+        Entangle
+        Entangle
+        Hydraulic Push (Domain, +1 CL[Water Affinity])
+        
+        PoP Recall X X :
+            Cure Light Wounds
+            Snowball
+            Frostbite
+            Entangle
+            Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+    2nd Level (4 + 1 Bonus + 1 Domain)
+        Greensight
+        Greensight
+        Flaming Sphere
+        Owl's Wisdom
+        Slipstream (Domain)
+
+        PoP Recall _ :
+            Greensight
+            Flaming Sphere
+            Owl's Wisdom
+            Slipstream (Domain)
+
+    3rd Level (4 + 1 Bonus + 1 Domain)
+        Burst of Nettles
+        Plant Growth
+        Call Lightning
+        Freedom of Movement
+        Water Walk (Domain, +1 CL[Water Affinity])
+        
+        PoP Recall: X
+            Burst of Nettles
+            Call Lightning
+            Cure Moderate Wounds
+            Freedom of Movement
+            Water Walk (Domain, +1 CL[Water Affinity])
+
+    4th Level (3 + 1 Bonus + 1 Domain) 
+        Ball Lightning
+        Ice Storm
+
+    5th Level (3 + 1 Bonus + 1 Domain)
+        Baleful Polymorph
+        Vinetrap
+        Wall of Thorns
+        Ice Storm (Domain, +1 CL[Water Affinity])
+
+    6th Level (2 + 1 Domain)
+        Greater Dispel Magic
+        Fluid Form (Domain +1 CL[Water Affinity])

@@ -1,0 +1,39 @@
+-------------------------
+| Spells & Abilities	|
+-------------------------
+
+Nature Bond (Water Domain, Rivers Subdomain)
+Water Affinity (+1 CL on Water Domain powers & spells)
+Water Sense
+Woodland Stride
+Trackless Step
+Resist Nature's Lure
+Wild Shape (4/day)
+Venom Immunity
+
+*** Spells ***
+Orisions: 4/day
+1st Level: 	7 = 4/day + 2/day bonus + 1 Domain Slot (Hydraulic Push)
+    DC:		17 = 10 + 1 Spell Level + 6 WIS
+2nd Level: 	7 = 4/day + 2/day bonus + 1 Domain Slot (Fog Cloud)
+    DC:		18 = 10 + 2 Spell Level + 6 WIS
+3rd Level: 	6 = 4/day + 1/day bonus + 1 Domain Slot (Water Walk)
+    DC:		19 = 10 + 3 Spell Level + 6 WIS
+4th Level: 	5 = 3/day + 1/day bonus + 1 Domain Slot (Control Water)
+    DC:		20 = 10 + 4 Spell Level + 6 WIS
+5th Level: 	5 = 3/day + 1/day bonus + 1 Domain Slot (Ice Storm)
+    DC:		21 = 10 + 5 Spell Level + 6 WIS
+6th Level: 	4 = 2/day + 1/day bonus + 1 Domain Slot (Fluid Form)
+    DC:		22 = 10 + 6 Spell Level + 6 WIS
+7th Level:  2 = 1/day + 1 Domain Slot (Elemental Body IV)
+    DC:     23 = 10 + 7 Spell Level + 6 WIS
+8th Level   
+    DC:     24 = 10 + 8 Spell Level + 6 WIS
+
+*** Domain Powers ***
+Current Flow (Su)
+    As a free action, increase land or swim speed by 10 feet.
+    While swimming, gain bonus on Swim checks equal to 1/2 Druid level (min 1).
+    Lasts a number of rounds equal to WISmod (6)
+    Uses: 3 + WISmod/day (Currently 9)
+    _ _ _ _ _ _ _ _ _

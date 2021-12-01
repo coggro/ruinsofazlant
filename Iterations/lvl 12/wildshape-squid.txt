@@ -1,0 +1,71 @@
+-------------------------
+| Attributes			|
+-------------------------
+
+	STR 	16	(+3)	=	12 Base		- 2 Undine + 6 HUGE
+	DEX 	14	(+2)	=	13 Base 	+ 2 Undine 
+								+ 2 Enhancement (Deep Red Sphere Ioun Stone)
+								+ 1 Lvl 12
+                                - 4 HUGE
+	CON 	16	(+3)	=	14 Base		+ 2 Enhancement (Ioun Stone)
+	INT		12	(+1)	=	12 Base
+	WIS 	20	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+								+ 2 Enhancement (Ioun Stone)
+	CHA 	12	(+1)	=	12 Base
+
+-------------------------
+| AC                    |
+-------------------------
+
+    AC: 27	=	10 Base	+	2 DEX +	2 Deflection (Ring of Protection) 
+					+ 4 Wild Spider Silk Armor + 2 Darkwood Buckler 
+					+ 1 Ioun Stone (IOUN) + 6 Natural Armor
+	FF: 23		Touch: 12
+
+-------------------------
+| Attacks               |
+-------------------------
+
+BAB: +9/+4
+
+CMB: +14 = 9BAB + 3STR + 2HUGE
+
+Bite
+    +12/2d6+4+1d6[shock]
+2 Arms
+    +12/1d6+4+1d6[shock]
+Tentacles
+    +10/4d6+2+1d6[shock] and GRAB
+	[ABB]+10/4d6+2+1d6[shock]+2d6[bane]
+	+1 if only attack
+Constrict
+    grapple check: +14 = 9 BAB + 3 STR + 2 Size
+		-2 AC
+		-2 ATT/CMB rolls
+		Concentration to cast
+		Cannot AoO
+	4d6+10
+
+STRONGJAW
+	Bite
+		+12/4d6+4+1d6[shock]
+	2 Arms
+		+12/2d8+4+1d6[shock]
+	Tentacles
+		+13/8d6+2+1d6[shock] and GRAB
+		[ABB]+13/8d6+2+1d6[shock]+2d6[bane]
+		+1 if only attack
+	Constrict
+		grapple check: +14 = 9 BAB + 3 STR + 2 Size
+			-2 AC
+			-2 ATT/CMB rolls
+			Concentration to cast
+			Cannot AoO
+		8d6+10
+
+Sea Spike
+    +3/+3
+    +2/+2d6 additional abberations
+
+
+ burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, ferocity, grab, jet, poison, pounce, rake, trample, trip, and web.

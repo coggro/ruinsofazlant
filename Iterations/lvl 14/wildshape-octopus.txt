@@ -1,0 +1,86 @@
+-------------------------
+| Attributes			|
+-------------------------
+
+	STR 	14	(+2)	=	12 Base		- 2 Undine + 4 Large
+	DEX 	16	(+3)	=	13 Base 	+ 2 Undine 
+								+ 2 Enhancement (Deep Red Sphere Ioun Stone)
+								+ 1 Lvl 12
+                                - 2 Large
+	CON 	16	(+3)	=	14 Base		+ 2 Enhancement (Ioun Stone)
+	INT		12	(+1)	=	12 Base
+	WIS 	20	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+								+ 2 Enhancement (Ioun Stone)
+	CHA 	12	(+1)	=	12 Base
+
+-------------------------
+| AC                    |
+-------------------------
+
+  AC: 23	=	10 Base	+	2 DEX +	2 Deflection (Ring of Protection) 
+					+ 4 Wild Spider Silk Armor
+					+ 1 Ioun Stone (IOUN) + 4 Natural Armor
+
+			28	+ 5 with Barkskin
+			
+	FF: 21		Touch: 12
+
+-------------------------
+| Attacks               |
+-------------------------
+
+BAB: +10/+5
+
+CMB: +13 = 10BAB + 2STR + 1LARGE
+CMD: +25 = 10BASE + 10 BAB + 2STR + 2DEX + 1LARGE
+
+Bite
+	(Primary: 10 [Full BAB] + 2 [Full STR] + 1 [Amulet])
+    +12/1d8+3+1d6[shock][+poison]
+Bite w/ Sea Spike
+	(Primary: 10 [Full BAB] + 2 [Full STR] + 1 [Amulet] + 3 [Seaspike])
+		+16/1d8+6+1d6[shock][+poison]
+			[ABB]+18/1d8+6+1d6[shock]+2d6[Bane(Abberation)]
+8 Tentacles
+	(Secondary: 5 [BAB -5] + 3 [DEX] + 1 [Amulet])
+    +9/1d4+2+1d6[shock] and GRAB
+	[ABB]+11/1d4+2+1d6[shock]+2d6[Bane(Abberation)]
+	+1 if only attack
+Constrict
+    grapple check: +17 = 10 BAB + 2 STR + 1 Size + 4 Grab
+		-2 AC
+		-2 ATT/CMB rolls
+		Concentration to cast
+		Cannot AoO
+	4d6+10
+
+STRONGJAW
+	Bite
+		(Primary: 10 [Full BAB] + 2 [Full STR] + 1 [Amulet])
+    	/roll 1d20+13
+			/roll 2d8+3+1d6 [shock][+poison]
+			DC 19 Poison - 1/rd for 6 rds 1d3 str - cure 2 saves
+	Bite w/ Sea Spike (Primary: 10 [Full BAB] + 2 [Full STR] + 1 [Amulet] + 3 [Seaspike])
+			/roll +16
+			/roll 2d8+6+1d6 [shock][+poison]
+			DC 19 Poison - 1/rd for 6 rds 1d3 str - cure 2 saves
+			/roll 2d6 [Bane(Abberation)]
+8 Tentacles (Secondary: 5 [BAB -5] + 3 [DEX] + 1 [Amulet])
+/roll 1d20+9
+/roll 1d8+2+1d6 [shock] and GRAB
+				[ABB]+11/1d8+2+1d6[shock]+2d6[Bane(Abberation)]
+				+1 if only attack
+	Constrict
+		grapple check: +16 = 9 BAB + 3 STR + 2 Size + 4 Grab
+			-2 AC
+			-2 ATT/CMB rolls
+			Concentration to cast
+			Cannot AoO
+		/roll 1d8+2
+
+Sea Spike
+    +3/+3
+    +2/+2d6 additional abberations
+
+
+ burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, ferocity, grab, jet, poison, pounce, rake, trample, trip, and web.

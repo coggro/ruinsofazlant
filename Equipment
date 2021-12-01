@@ -9,27 +9,34 @@
     +1 Cloak of Resistance
     Complete Dusty Rose Prism Ioun Stone
     Cracked Dusty Rose Prism Ioun Stone
+    Deep Red Sphere Ioun Stone
     Dagger
     +1 Darkwood Buckler
     100gp of diamond dusts
     Druid's Vestments
+    Extend Metamagic Rod
     Fishing Kit
     20 blocks of incense
     Incense of Meditation
     Irridescent Blue Spherical Ioun Stone
     Lesser Maximize Metamagic Rod
+    Lesser Extend Metamagic Rod
     Magnet
-    Ring of Protection +1
+    Ring of Protection +2
     Masterwork Shortspear
     Pearl of Power lvl 1 - I
     Pearl of Power lvl 1 - II
+    Pearl of Power lvl 1 - III
+    Pearl of Power lvl 2 - I
     Pearl of Power lvl 3 - I
+    Pearl of Power lvl 4 - I
     25 lbs powdered silver
     Rope (50 ft)
     Shocking Robe
     Scimitar
     +1 Shock Amulet of Mighty Fists
     3 Shortspears
+    Ring of Mind Shielding
     Signal Whistle
     Spellguard Bracers
     Survival Kit
@@ -37,6 +44,7 @@
     +1 Trident
     Twine (99.5 ft)
     Undine Garb
+    Unfettered Shirt
     Wayfinder
     Wooden Armor
     
@@ -44,48 +52,42 @@
         Necklace of Air Adaptation
         Wand/Freedom of Movement (17 ch)
         15 charges of healer's kit
-        4 Oils/CLW
+        2 Oils/CLW
         1 Potion/CLW
-        2 Oils/CMW
         1 Potion/CMW
-        3 Oils/CSW
-        Wand of Goodberry (47 ch)
+        2 Oils/CSW
+        Wand of Goodberry (43 ch)
         3 Sunrods
+        Bandaid Box
 
 -------------------------
 | Slots                 |
--------------------------    
-    Weapon:     +1 Trident
+-------------------------
+    Weapon:     Seaspike (+3 aberration bane shortspear)
     Shield:     +1 Darkwood Buckler
     Head:       
-    Headband:   +2 WIS
-    Eyes:       
+    Headband:   +4 WIS
+    Eyes:       Lenses of Detection
     Shoulders:  +2 Cloak of Resistance
     Neck:       +1 Shock Amulet of Mighty Fists
-    Chest:      
+    Chest:      Unfettered Shirt
     Body:       Shocking Robe
     Armor:      Wood Armor
-    Belt:       
+    Belt:       Belt/CON +4
     Wrists:     Spellguard Bracers
     Hands:      
-    Ring:       
-    Ring:       Ring of Protection +1
-    Feet:       
-    Slotless:   
-        Cracked Dusty Rose Prism Ioun Stone (+1 Insight to AC)
+    Ring:       Ring of Counterspells
+    Ring:       Ring of Protection +2
+    Feet:       Boots of the Cat
+    Slotless:
+        Dusty Rose Prism Ioun Stone (+1 Insight to AC)
+        Cracked Dusty Rose Prism Ioun Stone (+1 Competence to Initative)
         Incandescent Blue Spherical Ioun Stone (+2 Enhancement to WIS)
+        Pink Rhomboid Ioun Stone (+2 Enhancement to Con)
         Lesser Maximize Metamagic Rod
+        Sapling Rod
         Pale Blue - +1 Swim Bonus
         Polymorphic Pouch
         Wayfinder
             Clear Spindle - No Food/Water
-                Speak Aboleth, immune to mind-affecting effects
-
--------------------------
-| Currency              |
--------------------------
-    
-    PP - 0
-    GP - 17503
-    SP - 1
-    CP - 15
+                Speak Aboleth, immune to mind-affecting effects **that control you**

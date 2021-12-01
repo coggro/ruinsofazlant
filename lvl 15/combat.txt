@@ -1,0 +1,53 @@
+-------------------------
+| Combat				|
+-------------------------
+
+	HP: 155/155
+
+	AC: 22	=	10 Base	+	3 DEX +	2 Deflection (Ring of Protection) 
+					+ 4 Wild Spider Silk Armor + 2 Darkwood Buckler 
+					+ 1 Insight (Ioun Stone)
+	FF: 17		Touch: 14
+
+	Resist Cold 20, Resist Electricity 5
+
+	Initiative: +8
+		+3 Dexterity
+		+4 Improved Initiative
+		+1 Competence (ioun stone)
+
+	BAB: +11/+6/+1
+	
+	CMB: +11
+	CMD: 23
+
+	Seaspike
+	+3 Aberration Bane Shortspear
+		+17/1d6+3/x2
+			+10/1d6+3/x2
+		+17/1d6+3/x2/20ft
+
+		+2/+2d6 vs Aberration
+
+	+1 Trident
+		+14/1d8+1/x2
+			+9/1d8+1/x2
+
+	Scimitar:
+		+11/1d6/18-20/x2
+			+6/1d6/18-20/x2
+
+	Dagger:
+		+11/1d6/x2/-
+			+6/1d6/x2/-
+		+13/1d6/x2/10ft
+
+	Shortspear:
+		+11/1d6/x2/-
+			+6/1d6/x2/-
+		+13/1d6/x2/20ft
+
+	MWK Shortspear:
+		+12/1d6/x2/-
+			+5/1d6/x2/-
+		+13/1d6/x2/20ft

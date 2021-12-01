@@ -1,4 +1,4 @@
-Saarideh, Undine Druid (Water Domain, River Subdomain) 10 [TN Amphibious Aquatic Outsider]
+Saarideh, Undine Druid (Water Domain, River Subdomain) 11 [TN Amphibious Aquatic Outsider]
 Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 -------------------------
@@ -6,18 +6,19 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 -------------------------
 
 	STR 	10	(+0)	=	12 Base		- 2 Undine
-	DEX 	15	(+2)	=	13 Base 	+ 2 Undine
-	CON 	14	(+2)	=	12 Base
+	DEX 	17	(+3)	=	13 Base 	+ 2 Undine 
+								+ 2 Enhancement (Deep Red Sphere Ioun Stone)
+	CON 	16	(+3)	=	12 Base		+ 2 Enhancement
 	INT		12	(+1)	=	12 Base
-	WIS 	20	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+	WIS 	21	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
 	CHA 	12	(+1)	=	12 Base				+ 2 Enhancement (Ioun Stone)
 
 -------------------------
 | Saves					|
 -------------------------
 	
-	FORT:	10	=	7 Base	+ 2 CON	+ 1 Cloak
-	REFL:	6	=	3 Base	+ 2 DEX	+ 1 Cloak
+	FORT:	11	=	7 Base	+ 3 CON	+ 1 Cloak
+	REFL:	7	=	3 Base	+ 3 DEX	+ 1 Cloak
 	WILL:	12	=	7 Base	+ 4 WIS	+ 1 Cloak
 
 	Resist Nature's Lure
@@ -36,10 +37,11 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 | Combat				|
 -------------------------
 
-	HP: 83/83
+	HP: 104/104
 
-	AC: 20	=	10 Base	+	2 DEX +	1 Deflection + 4 Wild Spider Silk Armor 
-					+ 2 Darkwood Buckler + 1 Ioun Stone (IOUN)
+	AC: 22	=	10 Base	+	3 DEX +	2 Deflection (Ring of Protection) 
+					+ 4 Wild Spider Silk Armor + 2 Darkwood Buckler 
+					+ 1 Ioun Stone (IOUN)
 	FF: 17		Touch: 14
 
 	Resist Cold 10, Resist Electricity 5
@@ -49,14 +51,14 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		+4 Improved Initiative
 		+1 Competence (ioun stone)
 
-	BAB: +7/+2
+	BAB: +8/+3
 	
-	CMB: +7
-	CMD: 19
+	CMB: +8
+	CMD: 20
 	
 	Wild Shape: Large
-	CMB: +10
-	CMD: 21
+	CMB: +11
+	CMD: 22
 
 	Wild Shape: Huge
 		Giant Squid
@@ -65,34 +67,40 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 			AC: 18	=	10 Base	+	0 DEX +	1 Deflection + 1 Ioun Stone (IOUN) + 6 Natural Armor
 			FF: 18		Touch: 10
 			
-			Bite: +11/2d6+1d6+4
-			2 Arms: +11/1d6+1d6+4
-			Tentacles: +11/4d6+1d6+4/19-20, grab
+			Bite: +12/2d6+1d6+4
+			2 Arms: +12/1d6+1d6+4
+			Tentacles: +12/4d6+1d6+4/19-20, grab
 
+	Seaspike
+	+3 Aberration Bane Shortspear
+		+14/1d6+3/x2
+			+9/1d6+3/x2
+		+14/1d6+3/x2/20ft
 
+		+2/+2d6 vs Aberration
 
 	+1 Trident
-		+8/1d8+1/x2
-			+3/1d8+1/x2
+		+11/1d8+1/x2
+			+6/1d8+1/x2
 
 	Scimitar:
-		+7/1d6/18-20/x2
-			+2/1d6/18-20/x2
+		+8/1d6/18-20/x2
+			+3/1d6/18-20/x2
 
 	Dagger:
-		+7/1d6/x2/-
-			+2/1d6/x2/-
-		+9/1d6/x2/10ft
+		+8/1d6/x2/-
+			+3/1d6/x2/-
+		+10/1d6/x2/10ft
 
 	Shortspear:
-		+7/1d6/x2/-
-			+2/1d6/x2/-
-		+9/1d6/x2/20ft
-
-	MWK Shortspear:
 		+8/1d6/x2/-
 			+3/1d6/x2/-
 		+10/1d6/x2/20ft
+
+	MWK Shortspear:
+		+9/1d6/x2/-
+			+4/1d6/x2/-
+		+11/1d6/x2/20ft
 
 -------------------------
 | Skills				|
@@ -101,13 +109,13 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	Nature Sense: +2 Knowledge(Nature) and Survival
 	Wild Empathy: +11 to influence animal attitudes
 
-	Heal					+18	=	+ 10 Rank	+ 5 WIS	+ 3 Class Skill
-	Knowledge (Nature)		+16	=	+ 10 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
-	Perception				+19	=	+ 10 Rank	+ 5 WIS	+ 3 Class Skill + 1 Ioun Stone
-	Profession (Herbalist) 	+18	=	+ 10 Free 	+ 5 WIS	+ 3 Class Skill
-	Spellcraft				+14	=	+ 10 Rank	+ 1 INT	+ 3 Class Skill
-	Survival				+20	=	+ 10 Rank 	+ 5 WIS + 3 Class Skill + 2 Nature Sense
-	Swim					+13	=	+ 10 Rank	+ 0 STR + 3 Class Skill
+	Heal					+19	=	+ 11 Rank	+ 5 WIS	+ 3 Class Skill
+	Knowledge (Nature)		+17	=	+ 11 Rank	+ 1 INT + 3 Class Skill + 2 Nature Sense
+	Perception				+20	=	+ 11 Rank	+ 5 WIS	+ 3 Class Skill + 1 Ioun Stone
+	Profession (Herbalist) 	+19	=	+ 11 Free 	+ 5 WIS	+ 3 Class Skill
+	Spellcraft				+15	=	+ 11 Rank	+ 1 INT	+ 3 Class Skill
+	Survival				+21	=	+ 11 Rank 	+ 5 WIS + 3 Class Skill + 2 Nature Sense
+	Swim					+14	=	+ 11 Rank	+ 0 STR + 3 Class Skill
 		+ 8 Swim Speed w/ Special Manuevers/Hazards
 		+ 1 Untyped w/ Current Flow
 
@@ -120,6 +128,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	5th Level Druid: Natural Spell
 	7th Level Druid: Spell Penetration
 	9th Level Druid: Wild Speech
+	11th Level Druid: Divine Interference
 
 -------------------------
 | Spells & Abilities	|
@@ -146,6 +155,8 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 		DC:		19 = 10 + 4 Spell Level + 5 WIS
 	5th Level: 	3 = 2/day + 1/day bonus + 1 Domain Slot (Ice Storm)
 		DC:		20 = 10 + 5 Spell Level + 5 WIS
+	6th Level: 	3 = 1/day + 1 Domain Slot (Fluid Form)
+		DC:		20 = 10 + 5 Spell Level + 5 WIS
 
 
 		STANDARD LOADOUT
@@ -161,7 +172,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Snowball 
 				Frostbite
 				Entangle
-				Pass Without Trace
+				Entangle
 				Hydraulic Push (Domain, +1 CL[Water Affinity])
 				
 				PoP Recall _ _ : 
@@ -169,12 +180,14 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Snowball
 					Frostbite
 					Entangle
-					Pass Without Trace
 					Hydraulic Push (Domain, +1 CL[Water Affinity])
 
+				Swaps:
+				Cure Light Wounds
+
 			2nd Level (4 + 1 Bonus + 1 Domain)
-				Barkskin
-				Barkskin
+				Greensight
+				Greensight
 				Flaming Sphere
 				Owl's Wisdom
 				Owl's Wisdom
@@ -185,6 +198,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Barkskin
 					Defoliate
 					Eagle Eye
+					Flaming Sphere
 					Greensight
 					Owl's Wisdom
 					Slipstream
@@ -192,7 +206,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 
 			3rd Level (3 + 1 Bonus + 1 Domain)
 				Burst of Nettles
-				Burst of Nettles
+				Plant Growth
 				Call Lightning
 				Cure Moderate Wounds
 				Water Walk (Domain, +1 CL[Water Affinity])
@@ -214,10 +228,10 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Water Breathing
 
 			4th Level (3 + 1 Bonus + 1 Domain) 
+				Blight
+				Blight
+				Ice Storm
 				Cure Serious Wounds
-				Flame Strike
-				Dispel Magic
-				Control Water
 
 				Swaps: 
 					Cure Serious Wounds
@@ -250,6 +264,18 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Vinetrap
 					Wall of Thorns
 
+			6th Level (1 + 1 Domain)
+			    Antilife Shell
+				Fluid Form (Domain +1 CL[Water Affinity])
+
+				Swaps:
+					Antilife Shell
+					Eagle Aerie
+					Greater Dispel Magic
+					Mass Bear/Bull/Cat/Eagle/Fox/Owl
+					Mass Cure Light Wounds
+					Transport Via Plants
+
 		CURRENT LOADOUT
 			Orisons
 				Create Water
@@ -263,7 +289,6 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 				Snowball 
 				Frostbite
 				Entangle
-				Pass Without Trace
 				Hydraulic Push (Domain, +1 CL[Water Affinity])
 				
 				PoP Recall _ _ : 
@@ -271,13 +296,15 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Snowball
 					Frostbite
 					Entangle
-					Pass Without Trace
 					Hydraulic Push (Domain, +1 CL[Water Affinity])
 
+				Swaps:
+				Cure Light Wounds
+
 			2nd Level (4 + 1 Bonus + 1 Domain)
-				Barkskin
-				Barkskin
-				Cat's Grace
+				Greensight
+				Flaming Sphere
+				Flaming Sphere
 				Owl's Wisdom
 				Owl's Wisdom
 				Slipstream (Domain)
@@ -287,26 +314,22 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Barkskin
 					Defoliate
 					Eagle Eye
+					Flaming Sphere
 					Greensight
 					Owl's Wisdom
 					Slipstream
 					Spider Climb
-					Wild Instinct
 
 			3rd Level (3 + 1 Bonus + 1 Domain)
 				Burst of Nettles
-				Call Lightning
-				Cure Moderate Wounds
-				Mirage
+				Plant Growth
 				Water Walk (Domain, +1 CL[Water Affinity])
 				
-				PoP Recall: _
+				PoP Recall: X
 					Burst of Nettles
 					Call Lightning
 					Cure Moderate Wounds
 					Freedom of Movement
-					Hydrophobia
-					Mirage
 					Water Walk (Domain, +1 CL[Water Affinity])
 
 				Swaps: 
@@ -319,16 +342,12 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Water Breathing
 
 			4th Level (3 + 1 Bonus + 1 Domain) 
-				Cure Serious Wounds
-				Echolocation
-			  X Echolocation
+				Communal Protection from Energy
+				Ice Storm
 				Dispel Magic
-				Control Water
 
 				Swaps: 
-					Bloody Claws
 					Cure Serious Wounds
-					Echolocation
 					Flame Strike
 					Greater Flaming Sphere
 					Ice Storm
@@ -338,9 +357,8 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Scrying
 			
 			5th Level (2 + 1 Bonus + 1 Domain)
-				Baleful Polymorph
 				Vinetrap
-			  	Wall of Thorns
+				Wall of Thorns
 				Ice Storm (Domain, +1 CL[Water Affinity])
 
 				Swaps:
@@ -352,11 +370,22 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 					Hungry Earth
 					Oasis
 					Stoneskin
-					Transmute Rock to Mud
-					Transmute Mud to Rock
+					Transmit Rock to Mud
+					Transmit Mud to Rock
 					Tree Stride
 					Vinetrap
-					Wall of Thorns
+
+			6th Level (1 + 1 Domain)
+			    Antilife Shell
+				Fluid Form (Domain +1 CL[Water Affinity])
+
+				Swaps:
+					Antilife Shell
+					Eagle Aerie
+					Greater Dispel Magic
+					Mass Bear/Bull/Cat/Eagle/Fox/Owl
+					Mass Cure Light Wounds
+					Transport Via Plants
 
 	*** Domain Powers ***
 		Current Flow (Su)
@@ -375,7 +404,7 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 	|	Wild Shape	|
 	*****************
 
-	4/day: X X _ _ (4 for class)
+	4/day: X _ _ _ (4 for class)
 	Action: Standard
 	Duration: 10 hours (1hr/druid lvl)
 
@@ -456,9 +485,11 @@ Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
 			14 STR
 			13 DEX
 			Wildshape AC: Large
-				AC: 18	FF: 13	Touch: 12
-					+2 dodge
-				BAB +4
+				AC: 22	=	10 Base
+					+ 1 DEX +	2 Deflection (Ring of Protection) 
+					+ 4 Wild Spider Silk Armor
+					+ 1 Ioun Stone (IOUN) + 4 Natural Armor
+				FF: 22		Touch: 14
 			Octopus
 				Bite: +6, 1d8+2
 				Tentacle: +1, 1d4+1

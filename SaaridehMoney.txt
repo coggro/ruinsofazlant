@@ -1,11 +1,29 @@
-18458.17
-  955
-17503.17
- 9283.12
-26786.19 
-16350
-10436.19
-   20 proper dresswear for the party
-10416.19
-   40 various nonmagical natural aquatic jewelry and such
-10376.19
+  3364.69
+---------
+-14000.00 Extend Rods (Normal, Lesser)
+ 17364.69
+ --------
+   600.00 bar profit 70:30
+ 16764.69
+ --------
+-21000.00 PEARLS OF POWERRRRR
+-12000.00 Headband +4
+ -1000.00 Boots/Cat
+ -4500.00 Wand/CMW
+  +250.00 Helping Krill
+  -750.00 Wand/CLW
+ 56014.69
+ +46298.5 Selling Shit
+  9716.19
+  -660 heal spell 
+ 10376.19
+   -40 various nonmagical natural aquatic jewelry and such
+ 10416.19
+   -20 proper dresswear for the party
+ 10436.19
+ 16350 wild spidersilk armor
+ 26786.19 
+  9283.12
+ 17503.17
+   955
+ 18458.17

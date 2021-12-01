@@ -1,0 +1,158 @@
+STANDARD LOADOUT
+    Orisons
+        Create Water
+        Detect Magic 
+        Light
+        Stabilize
+
+    1st Level (4 + 2 Bonus + 1 Domain)
+        Cure Light Wounds
+        Cure Light Wounds
+        Faerie Fire
+        Entangle
+        Entangle
+        Summon Minor Ally
+        Hydraulic Push (Domain, +1 CL[Water Affinity])
+        
+        PoP Recall: _ _ _
+            Cure Light Wounds
+            Faerie Fire
+            Entangle
+            Summon Minor Ally
+            Hydraulic Push (Domain, +1 CL[Water Affinity])
+
+        Swaps:
+        Cure Light Wounds
+
+    2nd Level (4 + 2 Bonus + 1 Domain)
+        Barkskin
+        Barkskin
+        Euphoric Cloud
+        Greensight
+        Divine Trident
+        Owl's Wisdom
+        Slipstream (Domain)
+        
+        PoP Recall: _
+            Barkskin
+            Euphoric Cloud
+            Greensight
+            Divine Trident
+            Owl's Wisdom
+
+        Swaps: 
+            Aboleth's Lung
+            Barkskin
+            Defoliate
+            Eagle Eye
+            Flaming Sphere
+            Greensight
+            Owl's Wisdom
+            Slipstream
+            Spider Climb
+
+    3rd Level (4 + 1 Bonus + 1 Domain)
+        Magic Fang, Greater
+        Magic Fang, Greater
+        Neutralize Poison
+        Resinous Skin (DR 5/piercing)
+        Resinous Skin (DR 5/piercing)
+        Water Walk (Domain, +1 CL[Water Affinity])
+        
+        PoP Recall: _
+            Greater Magic Fang
+            Call Lightning
+            Cure Moderate Wounds
+            Freedom of Movement
+            Water Walk (Domain, +1 CL[Water Affinity])
+
+        Swaps: 
+            Call Lightning
+            Cure Moderate Wounds
+            Plant Growth
+            Remove Disease
+            Spider Climb (Communal)
+            Wind Wall
+            Water Breathing
+
+    4th Level (3 + 1 Bonus + 1 Domain) 
+        Bloody Claws
+        Dispel Magic
+        Echolocation
+        Freedom of Movement
+        Spike Stones
+
+        PoP Recall: _
+            Strong Jaw
+            Life Bubble
+            Communal Protection from Energy
+            Cure Serious Wounds
+
+        Swaps: 
+            Ball Lightning
+            Dispel Magic
+            Cure Serious Wounds
+            Flame Strike
+            Greater Flaming Sphere
+            Ice Storm
+            Life Bubble
+            Communal Protection from Energy
+            Reincarnate
+            Scrying
+            Strong Jaw
+
+    5th Level (3 + 1 Bonus + 1 Domain)
+        Baleful Polymorph
+        Baleful Polymorph
+        Death Ward
+        Wall of Thorns
+        Ice Storm (Domain, +1 CL[Water Affinity])
+
+        Swaps:
+            Atonement
+            Baleful Polymorph
+            Call Lightning Storm
+            Cure Critical Wounds
+            Glimpse of Truth
+            Hungry Earth
+            Oasis
+            Stoneskin
+            Transmit Rock to Mud
+            Transmit Mud to Rock
+            Tree Stride
+            Vinetrap
+            Wall of Thorns
+
+    6th Level (3 + 1 Bonus + 1 Domain)
+        Antilife Shell
+        Greater Dispel Magic
+        Transport Via Plants
+        Wall of Stone
+        Fluid Form (Domain +1 CL[Water Affinity])
+
+        Swaps:
+            Antilife Shell
+            Eagle Aerie
+            Greater Dispel Magic
+            Mass Bear/Bull/Cat/Eagle/Fox/Owl
+            Mass Cure Light Wounds
+            Primal Regression
+            Transport Via Plants
+
+    7th Level (2 + 1 Domain)
+        Heal
+        Heal
+        Elemental Form IV (Domain, Water Only)
+        Swaps
+            Changestaff
+            CMW, Mass
+            Control Weather
+            Faerie Ring Retreat
+            Heal
+            Sunbeam
+            True Seeing
+            Wind Walk
+
+Lesser Maximize: _ _ _
+Lesser Extend: _ _ _
+Extend: _ _ _

@@ -1,0 +1,103 @@
+-------------------------
+| Attributes			|
+-------------------------
+
+	STR 	16	(+3)	=	12 Base		- 2 Undine + 6 HUGE
+	DEX 	14	(+2)	=	13 Base 	+ 2 Undine 
+								+ 2 Enhancement (Deep Red Sphere Ioun Stone)
+								+ 1 Lvl 12
+                                - 4 HUGE
+	CON 	16	(+3)	=	14 Base		+ 2 Enhancement (Ioun Stone)
+	INT		12	(+1)	=	12 Base
+	WIS 	20	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+								+ 2 Enhancement (Ioun Stone)
+	CHA 	12	(+1)	=	12 Base
+
+-------------------------
+| AC                    |
+-------------------------
+
+    AC: 27	=	10 Base	+	2 DEX +	2 Deflection (Ring of Protection) 
+					+ 4 Wild Spider Silk Armor + 2 Darkwood Buckler 
+					+ 1 Ioun Stone (IOUN) + 6 Natural Armor
+	FF: 23		Touch: 12
+
+-------------------------
+| Attacks               |
+-------------------------
+
+BAB: +9/+4
+
+CMB: +16 = 9BAB + 3STR + 4GARGANTUAN(Powerful Shape)
+
+Bite
+    +14/2d6+4+1d6[shock]
+2 Arms
+    +14/1d6+4+1d6[shock]
+Tentacles
+    +14/4d6+2+1d6[shock] and GRAB
+	[ABB]+10/4d6+2+1d6[shock]+2d6[bane]
+	+1 if only attack
+Constrict
+    grapple check: +18 = 11 BAB + 3 STR + 4GARGANTUAN(Powerful Shape)
+		-2 AC
+		-2 ATT/CMB rolls
+		Concentration to cast
+		Cannot AoO
+	4d6+10
+
+STRONGJAW
+	Bite
+		+14/4d6+4+1d6[shock]
+	2 Arms
+		+14/2d8+4+1d6[shock]
+	Tentacles
+		+14/8d6+2+1d6[shock] and GRAB
+		[ABB]+15/8d6+2+1d6[shock]+2d6[bane]
+		+1 if only attack
+
+	Tentacles (w/ Sea Spike)
+		+17/8d6+5+1d6[shock] and GRAB
+		[ABB]+18/8d6+5+1d6[shock]+2d6[bane]
+		+1 if only attack
+	Constrict
+		grapple check: +18 = 11 BAB + 3 STR + 4GARGANTUAN(Powerful Shape)
+			-2 AC
+			-2 ATT/CMB rolls
+			Concentration to cast
+			Cannot AoO
+		8d6+10
+
+Sea Spike
+    +3/+3
+    +2/+2d6 additional abberations
+
+	STRONGJAW AND MAGIC FANG
+		Bite
+			+17/4d6+4+1d6[shock]
+		2 Arms
+			+14/2d8+1+1d6[shock]
+		Tentacles
+			+14/8d6+2+1d6[shock] and GRAB
+			[ABB]+15/8d6+2+1d6[shock]+2d6[bane]
+			+1 if only attack
+
+		Tentacles (w/ Sea Spike)
+			+17/8d6+5+1d6[shock] and GRAB
+			[ABB]+18/8d6+5+1d6[shock]+2d6[bane]
+			+1 if only attack
+		Constrict
+			grapple check: +18 = 11 BAB +` 3 STR + 4GARGANTUAN(Powerful Shape)
+				-2 AC
+				-2 ATT/CMB rolls
+				-4 DEX
+				Concentration to cast (10+18+Spell Level)
+				Cannot AoO, Cannot Move
+			8d6+10
+
+	Sea Spike
+			+3/+3
+			+2/+2d6 additional abberations
+
+
+ burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, ferocity, grab, jet, poison, pounce, rake, trample, trip, and web.

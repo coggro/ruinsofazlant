@@ -1,0 +1,90 @@
+*****************
+|	Wild Shape	|
+*****************
+
+6/day: _ _ _ _ _ _ (6 for class)
+Action: Standard
+Duration: 15 hours (1hr/druid lvl)
+    
+    Tiny: +4 DEX, -2 STR, +1 Natural Armor
+
+    Small: +2 DEX, +1 Natural Armor
+        Antelope
+        Badger
+        Dog, Common
+        Donkey Rat
+        Eagle
+        Eel, Electric
+        Goat
+        Great Horned Owl
+        Octopus
+        Pig
+        Primate, Baboon
+        Rat, Dire
+        Thylacine
+        Vulture
+        Aurumvorax
+        Blindheim
+        Chupacabra
+        Clawbat
+        Cockatrice
+        Darkmantle
+        Gryph
+        Shocker Lizard
+        Voonith
+    Medium: +2 STR, +2 Natural Armor
+        Badger, Dire
+        Boar
+        Brush Thylacine
+        Cat, Cheetah
+        Cat, Leopard
+        Dimorphodon
+        Dinosaurus, Deinonychus
+        Dog, Hyena
+        Dog, Riding
+        Dog, Wolf
+        Dolphin, Bottlenose
+        Elk
+        Frog, (Giant)
+        Gar
+        Giant Gecko
+        Giant Porcupine
+        Goblin Dog
+        Herd Animal, Sheep (Ram)
+        Kangaroo
+        Lizard, Monitor
+        Pony
+        Snake, Constrictor
+        Snake, Venomous
+        Squid
+        Stingray
+        Wolverine
+        Aranea
+        Baku
+        Basilisk
+        Blink Dog
+        Bunyip
+        Dweomercat
+        Grodair
+        Jackalwere
+        Krenshar
+        Peryton
+        Siren
+        Slurk
+        Trollhound	
+        Worg
+    Large: +4 STR, -2 DEX, +4 Natural Armor
+        14 STR
+        13 DEX
+        Wildshape AC: Large
+            AC: 22	=	10 Base
+                + 1 DEX +	2 Deflection (Ring of Protection) 
+                + 4 Wild Spider Silk Armor
+                + 1 Ioun Stone (IOUN) + 4 Natural Armor
+            FF: 22		Touch: 14
+        Octopus
+            Bite: +6, 1d8+2
+            Tentacle: +1, 1d4+1
+        Bear
+            Bite: +6, 1d6+2
+            Claw x2: +6, 1d6+2

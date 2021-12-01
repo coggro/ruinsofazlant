@@ -1,0 +1,19 @@
+-------------------------
+| Skills				|
+-------------------------
+
+Nature Sense: +2 Knowledge(Nature) and Survival
+Wild Empathy: +13 to influence animal attitudes
+
+Heal					+22	=	+ 13 Rank	+ 6 WIS	+ 3 Class Skill
+Knowledge (Nature)		+19	=	+ 13 Rank	+ 1 INT + 3 Class Skill 
+                                    + 2 Nature Sense
+Perception				+23	=	+ 13 Rank	+ 6 WIS	+ 3 Class Skill 
+                                    + 1 Ioun Stone
+Profession (Herbalist) 	+22	=	+ 13 Free 	+ 6 WIS	+ 3 Class Skill
+Spellcraft				+17	=	+ 13 Rank	+ 1 INT	+ 3 Class Skill
+Survival				+24	=	+ 13 Rank 	+ 6 WIS + 3 Class Skill 
+                                    + 2 Nature Sense
+Swim					+16	=	+ 13 Rank	+ 0 STR + 3 Class Skill
+    + 8 Swim Speed w/ Special Manuevers/Hazards
+    + 1 Untyped w/ Current Flown

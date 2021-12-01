@@ -1,0 +1,67 @@
+Saarideh, Undine Druid (Water Domain, River Subdomain) 13 [TN Amphibious Aquatic Outsider]
+Height: 5'3"/1.6m	Weight: 135lbs/61.25kg
+Age: 71/250+6d%
+
+-------------------------
+| Attributes						|
+-------------------------
+
+	STR 	10	(+0)	=	12 Base		- 2 Undine
+	DEX 	18	(+4)	=	13 Base 	+ 2 Undine 
+								+ 2 Enhancement (Deep Red Sphere Ioun Stone)
+								+ 1 Lvl 12
+	CON 	18	(+4)	=	14 Base		+ 4 Enhancement (Belt)
+	INT		12	(+1)	=	12 Base
+	WIS 	23	(+5)	=	15 Base 	+ 2 Undine	+ 1 lvl 4 + 1 lvl 8 
+								+ 4 Enhancement (Headband)
+	CHA 	12	(+1)	=	12 Base
+
+-------------------------
+| Saves									|
+-------------------------
+	
+	FORT:	12	=	8 Base	+ 3 CON	+ 1 Cloak
+	REFL:	8	=	4 Base	+ 3 DEX	+ 1 Cloak
+	WILL:	15	=	8 Base	+ 6 WIS	+ 1 Cloak
+
+	Resist Nature's Lure
+		+4 vs Spell-like/Supernatural abilities of fey, spells and effects that target plants (blight, entangle, spike growth, warp wood)
+
+-------------------------
+| Exploration						|
+-------------------------
+
+	Darkvision: 60ft
+	Water Sense (Blindsense 30 ft in same body of water)
+	Speed: 30ft
+	Swim Speed: 40 fts
+
+-------------------------
+| Feats									|
+-------------------------
+
+	1st Level Druid: Combat Casting (+4 Concentration)
+	3rd Level Druid: Improved Initiative
+	5th Level Druid: Natural Spell
+	7th Level Druid: Spell Penetration
+	9th Level Druid: Wild Speech
+	11th Level Druid: Divine Interference
+	13th Level Druid: Combat Reflexes
+
+| Class Features
+
+	Nature Bond
+	Nature Sense
+	Wild Empathy
+	Woodland Stride
+	Trackless Step
+	Resist Nature's Lure
+	Wild Shape
+	Venom Immunity
+	A Thousand Faces
+
+-------------------------
+| Social								|
+-------------------------
+
+Languages: Common, Aquan (Racial), Druidic (Druid), Elven (INT), Auran (INT), Aboleth (Ioun Stone)
