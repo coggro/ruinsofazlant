@@ -2,7 +2,7 @@
 |	Wild Shape	|
 *****************
 
-6/day: _ _ _ _ _ _ (6 for class)
+6/day: X X X _ _ _ (6 for class)
 Action: Standard
 Duration: 15 hours (1hr/druid lvl)
     

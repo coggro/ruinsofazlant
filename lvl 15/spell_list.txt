@@ -9,8 +9,8 @@ STANDARD LOADOUT
         Cure Light Wounds
         Cure Light Wounds
         Faerie Fire
-        Entangle
-        Entangle
+        
+        
         Summon Minor Ally
         Hydraulic Push (Domain, +1 CL[Water Affinity])
         
@@ -83,7 +83,7 @@ STANDARD LOADOUT
 
         Control Water (Domain, +1 CL[Water Affinity])
 
-        PoP Recall: _
+        PoP Recall: X
             Dispel Magic
             Strong Jaw
             Life Bubble
@@ -105,11 +105,10 @@ STANDARD LOADOUT
 
     5th Level (4 + 1 Bonus + 1 Domain)
         Baleful Polymorph
-        Baleful Polymorph
+        
         Death Ward
         Death Ward
         Death Ward
-        Ice Storm (Domain, +1 CL[Water Affinity])
 
         Swaps:
             Atonement
@@ -130,7 +129,7 @@ STANDARD LOADOUT
         
 
         Transport Via Plants
-        Fluid Form (Domain +1 CL[Water Affinity])
+
 
         Swaps:
             Antilife Shell
@@ -142,7 +141,7 @@ STANDARD LOADOUT
             Transport Via Plants
 
     7th Level (2 + 1 Domain)
-        Heal
+        
         
         Elemental Form IV (Domain, Water Only)
         Swaps
@@ -161,4 +160,4 @@ STANDARD LOADOUT
 
 Lesser Maximize: _ _ _
 Lesser Extend: _ _ _
-Extend: _ _ _
+Extend: X _ _
